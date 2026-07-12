@@ -330,6 +330,14 @@
   transform: translateY(1px);
 }
 
+.top-sale-icon {
+  color: #ffd700;
+}
+
+.games-icon {
+  color: var(--accent);
+}
+
 .section-title {
   font-size: 13px;
   font-weight: 700;
