@@ -1,5 +1,5 @@
 import { Routes, Route, Link, useLocation } from "react-router-dom";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { useCart } from "./CartContext";
 import GameCard from "./GameCard";
 import GameDetail from "./pages/GameDetail";
@@ -10,6 +10,7 @@ import "./App.css";
 export default function App() {
   const { items } = useCart();
   const location = useLocation();
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   useEffect(() => {
     if (location.hash) {
@@ -24,38 +25,50 @@ export default function App() {
     <div className="game-store">
       <header className="store-header">
         <div className="store-header-inner">
-          <Link to="/" className="store-brand">
+          <Link to="/" className="store-brand" onClick={() => setMobileMenuOpen(false)}>
             <span className="store-logo"><i className="fa-solid fa-gamepad" /></span>
             <h1 className="store-title">
               GAME<span className="gradient-text">VAULT</span>
             </h1>
           </Link>
 
-          <nav className="store-nav">
-            <Link to="/#top-sale" className="nav-link">Top Sale</Link>
-            <Link to="/#games" className="nav-link">Games</Link>
-            <Link to="/cart" className="nav-link">Cart</Link>
+          <nav className={`store-nav ${mobileMenuOpen ? "open" : ""}`}>
+            <Link to="/#top-sale" className="nav-link" onClick={() => setMobileMenuOpen(false)}>Top Sale</Link>
+            <Link to="/#games" className="nav-link" onClick={() => setMobileMenuOpen(false)}>Games</Link>
+            <Link to="/cart" className="nav-link" onClick={() => setMobileMenuOpen(false)}>Cart</Link>
           </nav>
 
-          <Link to="/cart" className="cart-link">
-            <svg
-              width="22"
-              height="22"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              strokeWidth="2"
-              strokeLinecap="round"
-              strokeLinejoin="round"
+          <div className="header-actions">
+            <Link to="/cart" className="cart-link">
+              <svg
+                width="22"
+                height="22"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              >
+                <circle cx="9" cy="21" r="1" />
+                <circle cx="20" cy="21" r="1" />
+                <path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6" />
+              </svg>
+              {items.length > 0 && (
+                <span className="cart-badge">{items.length}</span>
+              )}
+            </Link>
+
+            <button
+              className={`hamburger-btn ${mobileMenuOpen ? "open" : ""}`}
+              onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+              aria-label="Toggle menu"
             >
-              <circle cx="9" cy="21" r="1" />
-              <circle cx="20" cy="21" r="1" />
-              <path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6" />
-            </svg>
-            {items.length > 0 && (
-              <span className="cart-badge">{items.length}</span>
-            )}
-          </Link>
+              <span />
+              <span />
+              <span />
+            </button>
+          </div>
         </div>
       </header>
 
