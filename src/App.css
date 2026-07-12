@@ -978,32 +978,40 @@ a.game-card {
     top: 56px;
     left: 0;
     right: 0;
-    bottom: 0;
-    background: rgba(18, 18, 18, 0.98);
-    backdrop-filter: blur(12px);
+    background: rgba(22, 22, 34, 0.98);
+    backdrop-filter: blur(16px);
+    border-bottom: 1px solid var(--border);
     flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 12px;
+    align-items: stretch;
+    gap: 0;
     z-index: 99;
-    padding: 24px;
+    padding: 8px 0;
+    transform: translateY(-10px);
+    opacity: 0;
+    transition: transform 0.2s ease, opacity 0.2s ease;
   }
 
   .store-nav.open {
     display: flex;
+    transform: translateY(0);
+    opacity: 1;
   }
 
   .store-nav .nav-link {
-    font-size: 18px;
-    padding: 16px 32px;
+    font-size: 15px;
+    padding: 14px 20px;
     width: 100%;
-    max-width: 320px;
-    text-align: center;
-    border-radius: var(--radius-md);
+    text-align: left;
+    border-radius: 0;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .store-nav .nav-link:last-child {
+    border-bottom: none;
   }
 
   .store-nav .nav-link:hover {
-    background: rgba(255, 255, 255, 0.08);
+    background: rgba(255, 255, 255, 0.06);
     color: var(--text-primary);
   }
 
@@ -1038,8 +1046,8 @@ a.game-card {
   }
 
   .carousel-content {
-    max-width: 80%;
-    padding: 28px;
+    max-width: 85%;
+    padding: 28px 28px 28px 56px;
   }
 
   .carousel-title {
@@ -1049,8 +1057,8 @@ a.game-card {
   .hero-carousel .carousel-control-prev,
   .hero-carousel .carousel-control-next {
     opacity: 0.6;
-    width: 40px;
-    height: 40px;
+    width: 36px;
+    height: 36px;
   }
 
   .detail-hero {
@@ -1178,7 +1186,8 @@ a.game-card {
   }
 
   .carousel-content {
-    padding: 20px;
+    max-width: 90%;
+    padding: 16px 16px 16px 44px;
   }
 
   .carousel-title {
@@ -1188,6 +1197,14 @@ a.game-card {
   .carousel-tag {
     font-size: 10px;
     padding: 3px 8px;
+  }
+
+  .hero-carousel .carousel-control-prev {
+    left: 8px;
+  }
+
+  .hero-carousel .carousel-control-next {
+    right: 8px;
   }
 
   .store-main {
