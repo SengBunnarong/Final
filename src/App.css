@@ -117,6 +117,12 @@
   z-index: 99;
 }
 
+@media (max-width: 768px) {
+  .ticker-wrap {
+    top: 56px;
+  }
+}
+
 .ticker {
   display: flex;
   white-space: nowrap;
