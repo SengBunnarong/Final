@@ -10,7 +10,7 @@
   position: sticky;
   top: 0;
   z-index: 100;
-  background: rgba(18, 18, 18, 0.96);
+  background: rgba(11, 37, 82, 0.96);
   border-bottom: 1px solid var(--border);
   backdrop-filter: blur(12px);
 }
@@ -148,7 +148,7 @@
 
 .ticker-item i {
   font-size: 10px;
-  color: #facc15;
+  color: #ebebeb;
 }
 
 .ticker-sep {
@@ -198,8 +198,8 @@
   position: absolute;
   inset: 0;
   background:
-    linear-gradient(to right, rgba(18, 18, 18, 0.85) 0%, rgba(18, 18, 18, 0.3) 50%, transparent 100%),
-    linear-gradient(to top, rgba(18, 18, 18, 0.9) 0%, transparent 40%);
+    linear-gradient(to right, rgba(11, 37, 82, 0.85) 0%, rgba(11, 37, 82, 0.3) 50%, transparent 100%),
+    linear-gradient(to top, rgba(11, 37, 82, 0.9) 0%, transparent 40%);
   pointer-events: none;
 }
 
@@ -411,7 +411,7 @@
 .game-card-overlay {
   position: absolute;
   inset: 0;
-  background: linear-gradient(to top, rgba(18, 18, 18, 0.5) 0%, transparent 50%);
+  background: linear-gradient(to top, rgba(11, 37, 82, 0.5) 0%, transparent 50%);
   pointer-events: none;
 }
 
@@ -482,7 +482,7 @@
   font-size: 12px;
   font-weight: 700;
   font-family: var(--font-pixel);
-  color: #4ade80;
+  color: var(--accent);
   flex-shrink: 0;
 }
 
@@ -707,7 +707,7 @@ a.game-card {
 .detail-hero-overlay {
   position: absolute;
   inset: 0;
-  background: linear-gradient(to top, rgba(18, 18, 18, 0.3) 0%, transparent 40%);
+  background: linear-gradient(to top, rgba(11, 37, 82, 0.3) 0%, transparent 40%);
   pointer-events: none;
 }
 
@@ -737,7 +737,7 @@ a.game-card {
   font-size: 24px;
   font-weight: 800;
   font-family: var(--font-pixel);
-  color: #4ade80;
+  color: var(--accent);
 }
 
 .add-to-cart-btn {
@@ -770,8 +770,8 @@ a.game-card {
 }
 
 .add-to-cart-btn.just-added {
-  background: #2ecc71;
-  color: white;
+  background: var(--accent);
+  color: var(--bg-primary);
   border: none;
   opacity: 1;
 }
@@ -981,7 +981,7 @@ a.game-card {
   font-size: 11px;
   font-weight: 700;
   font-family: var(--font-pixel);
-  color: #4ade80;
+  color: var(--accent);
 }
 
 .cart-remove-btn {
@@ -1051,7 +1051,7 @@ a.game-card {
     top: 56px;
     left: 0;
     right: 0;
-    background: #1c1c30;
+    background: #10367d;
     border-bottom: 1px solid var(--border);
     flex-direction: column;
     align-items: stretch;

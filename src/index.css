@@ -2,32 +2,32 @@
   --font-pixel: "Press Start 2P", monospace;
   --font-main: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
 
-  --bg-primary: #121212;
-  --bg-secondary: #1a1a2e;
-  --bg-card: #20202e;
-  --bg-card-hover: #282838;
-  --bg-surface: #18182a;
+  --bg-primary: #0b2552;
+  --bg-secondary: #0d2b61;
+  --bg-card: #10367d;
+  --bg-card-hover: #15428f;
+  --bg-surface: #0d2b61;
 
-  --text-primary: #ffffff;
-  --text-secondary: #a0a0b8;
-  --text-muted: #606078;
+  --text-primary: #ebebeb;
+  --text-secondary: #c0c0c0;
+  --text-muted: #909090;
 
-  --accent: #0078f2;
-  --accent-hover: #1a8df5;
-  --accent-soft: rgba(0, 120, 242, 0.12);
+  --accent: #a5ce00;
+  --accent-hover: #bae010;
+  --accent-soft: rgba(165, 206, 0, 0.15);
 
   --red: #e74c3c;
   --red-bg: rgba(231, 76, 60, 0.1);
 
-  --border: rgba(255, 255, 255, 0.06);
-  --border-hover: rgba(255, 255, 255, 0.12);
+  --border: rgba(235, 235, 235, 0.08);
+  --border-hover: rgba(235, 235, 235, 0.18);
 
   --radius-sm: 4px;
   --radius-md: 6px;
   --radius-lg: 8px;
 
-  --shadow-card: 0 2px 8px rgba(0, 0, 0, 0.3);
-  --shadow-hover: 0 8px 24px rgba(0, 0, 0, 0.4);
+  --shadow-card: 0 2px 8px rgba(0, 0, 0, 0.4);
+  --shadow-hover: 0 8px 24px rgba(0, 0, 0, 0.5);
 }
 
 *,
