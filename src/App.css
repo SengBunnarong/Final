@@ -978,8 +978,7 @@ a.game-card {
     top: 56px;
     left: 0;
     right: 0;
-    background: rgba(22, 22, 34, 0.98);
-    backdrop-filter: blur(16px);
+    background: #1c1c30;
     border-bottom: 1px solid var(--border);
     flex-direction: column;
     align-items: stretch;
@@ -1144,6 +1143,14 @@ a.game-card {
     font-size: 20px;
   }
 
+  .carousel-content {
+    display: none;
+  }
+
+  .carousel-slide {
+    height: 200px;
+  }
+
   .games-grid,
   .loading-grid {
     grid-template-columns: repeat(2, 1fr);
@@ -1179,32 +1186,6 @@ a.game-card {
   .top-sale-badge {
     font-size: 9px;
     padding: 3px 7px;
-  }
-
-  .carousel-slide {
-    height: 220px;
-  }
-
-  .carousel-content {
-    max-width: 90%;
-    padding: 16px 16px 16px 44px;
-  }
-
-  .carousel-title {
-    font-size: 18px;
-  }
-
-  .carousel-tag {
-    font-size: 10px;
-    padding: 3px 8px;
-  }
-
-  .hero-carousel .carousel-control-prev {
-    left: 8px;
-  }
-
-  .hero-carousel .carousel-control-next {
-    right: 8px;
   }
 
   .store-main {
