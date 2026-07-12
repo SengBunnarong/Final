@@ -78,7 +78,7 @@ export default function GameDetail() {
                     ? "In Cart"
                     : added
                       ? "Added!"
-                      : <><i className="fa-solid fa-coins" /> INSERT COIN</>}
+                      : "Add to Cart"}
               </button>
             </div>
 
