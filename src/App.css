@@ -1060,6 +1060,10 @@ a.game-card {
     height: 36px;
   }
 
+  .hero-carousel .carousel-indicators {
+    display: none;
+  }
+
   .detail-hero {
     grid-template-columns: 1fr;
     gap: 24px;
