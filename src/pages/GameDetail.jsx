@@ -74,11 +74,11 @@ export default function GameDetail() {
                 onClick={handleAddToCart}
                 disabled={isInCart(game.id)}
               >
-                {isInCart(game.id)
-                  ? "In Cart"
-                  : added
-                    ? "Added!"
-                    : "Add to Cart"}
+                  {isInCart(game.id)
+                    ? "In Cart"
+                    : added
+                      ? "Added!"
+                      : <><i className="fa-solid fa-coins" /> INSERT COIN</>}
               </button>
             </div>
 

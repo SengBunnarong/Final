@@ -161,6 +161,7 @@ function StorePage() {
             <div className="section-header-left">
               <span className="section-icon top-sale-icon"><i className="fa-solid fa-fire" /></span>
               <h2 className="section-title">Top Sale</h2>
+              <span className="section-badge">{topSale.length} games</span>
             </div>
           </div>
           <div className="games-grid">
@@ -175,6 +176,7 @@ function StorePage() {
             <div className="section-header-left">
               <span className="section-icon games-icon"><i className="fa-solid fa-gamepad" /></span>
               <h2 className="section-title">Games</h2>
+              <span className="section-badge">{allGames.length} games</span>
             </div>
           </div>
           <div className="games-grid">
