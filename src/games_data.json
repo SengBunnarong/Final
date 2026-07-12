@@ -1,0 +1,4698 @@
+﻿[
+  {
+    "id": "9a69a51e-19d7-4f7a-a48e-47921e9a34c7",
+    "slug": "perfect-dark",
+    "name": "Perfect Dark",
+    "playtime": 10,
+    "released": "2000-05-22",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/games/f62/f62d090119e5ff05c59036480123fd83.jpg",
+    "rating": 3.9699999999999998,
+    "rating_top": 5,
+    "ratings_count": 172,
+    "reviews_count": 173,
+    "metacritic": 97,
+    "suggestions_count": 403,
+    "esrb_rating": "Mature",
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69a51e-215d-4b16-8f13-f7954dab81ed",
+        "game_id": "9a69a51e-19d7-4f7a-a48e-47921e9a34c7",
+        "name": "Action",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a51e-21d5-4646-9f6e-6a97bcdd2ff8",
+        "game_id": "9a69a51e-19d7-4f7a-a48e-47921e9a34c7",
+        "name": "Shooter",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69a51e-1a6f-42be-b182-86e1043c8295",
+        "game_id": "9a69a51e-19d7-4f7a-a48e-47921e9a34c7",
+        "name": "Xbox 360",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a51e-1ad9-44e3-8f9e-2c762f637d97",
+        "game_id": "9a69a51e-19d7-4f7a-a48e-47921e9a34c7",
+        "name": "Nintendo 64",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69a51e-1c0f-4c14-bf27-63fd32a0abf8",
+        "game_id": "9a69a51e-19d7-4f7a-a48e-47921e9a34c7",
+        "image_url": "https://media.rawg.io/media/games/f62/f62d090119e5ff05c59036480123fd83.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a51e-1c7b-42d2-a096-5fda2b796ef5",
+        "game_id": "9a69a51e-19d7-4f7a-a48e-47921e9a34c7",
+        "image_url": "https://media.rawg.io/media/screenshots/fc8/fc8422a3a58544e239b3b215eea4ba25.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a51e-1d75-44b1-b758-6bf16f2db427",
+        "game_id": "9a69a51e-19d7-4f7a-a48e-47921e9a34c7",
+        "image_url": "https://media.rawg.io/media/screenshots/1dd/1ddf2e386765e8737f840263eb821f84.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a51e-1e27-415b-9e2f-ccccb8dd8bf0",
+        "game_id": "9a69a51e-19d7-4f7a-a48e-47921e9a34c7",
+        "image_url": "https://media.rawg.io/media/screenshots/560/56011aab7f5e7a58961f661dceb80511.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a51e-1f4d-40fd-9430-a8440400b64a",
+        "game_id": "9a69a51e-19d7-4f7a-a48e-47921e9a34c7",
+        "image_url": "https://media.rawg.io/media/screenshots/9a4/9a4229fdb3a8fdaf0471ce9eb9084cda.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a51e-1fcd-49f3-84fa-9eb0f134178d",
+        "game_id": "9a69a51e-19d7-4f7a-a48e-47921e9a34c7",
+        "image_url": "https://media.rawg.io/media/screenshots/f51/f510e9169256de968d96a57d981e398d.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a51e-2046-4212-a7ed-8c59d1cbaa72",
+        "game_id": "9a69a51e-19d7-4f7a-a48e-47921e9a34c7",
+        "image_url": "https://media.rawg.io/media/screenshots/d34/d34fd0fc008e85f7a9a7f64da4ba2b6f.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [
+      {
+        "id": "9a69a51e-1b37-46ba-96ba-790c47736953",
+        "game_id": "9a69a51e-19d7-4f7a-a48e-47921e9a34c7",
+        "name": "Xbox Store",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a51e-1ba6-46fd-a697-ffb4898a8990",
+        "game_id": "9a69a51e-19d7-4f7a-a48e-47921e9a34c7",
+        "name": "Xbox 360 Store",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "tags": [
+      {
+        "id": "9a69a51e-20d1-4c5d-ab64-004ab2c48b39",
+        "game_id": "9a69a51e-19d7-4f7a-a48e-47921e9a34c7",
+        "name": "exclusive",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ]
+  },
+  {
+    "id": "9a69b1d4-c7b0-49d5-94ca-76fa682e219b",
+    "slug": "ssx-3",
+    "name": "SSX 3",
+    "playtime": 0,
+    "released": "2003-10-21",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/games/e4f/e4fab00d5198c9727b1d6c694c5bed2b.jpg",
+    "rating": 4.42,
+    "rating_top": 4,
+    "ratings_count": 33,
+    "reviews_count": 33,
+    "metacritic": 93,
+    "suggestions_count": 343,
+    "esrb_rating": "Everyone",
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69b1d4-d2d0-4011-b1c6-8d57a9b4f520",
+        "game_id": "9a69b1d4-c7b0-49d5-94ca-76fa682e219b",
+        "name": "Sports",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b1d4-d33c-44ae-99ee-48cdcab28639",
+        "game_id": "9a69b1d4-c7b0-49d5-94ca-76fa682e219b",
+        "name": "Racing",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69b1d4-c834-4a3e-adc9-b8edae910220",
+        "game_id": "9a69b1d4-c7b0-49d5-94ca-76fa682e219b",
+        "name": "Xbox",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b1d4-c948-4626-83d9-a3c4dd9711e5",
+        "game_id": "9a69b1d4-c7b0-49d5-94ca-76fa682e219b",
+        "name": "PlayStation 2",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b1d4-ca91-401d-b902-2f7aee0f4fbe",
+        "game_id": "9a69b1d4-c7b0-49d5-94ca-76fa682e219b",
+        "name": "Xbox One",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b1d4-cb15-4d44-bc28-1994afc84a48",
+        "game_id": "9a69b1d4-c7b0-49d5-94ca-76fa682e219b",
+        "name": "Xbox 360",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b1d4-cb6d-4b13-84c0-ac4c225d8c1f",
+        "game_id": "9a69b1d4-c7b0-49d5-94ca-76fa682e219b",
+        "name": "GameCube",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69b1d4-cd37-4e63-a8de-7e5cb7e3f225",
+        "game_id": "9a69b1d4-c7b0-49d5-94ca-76fa682e219b",
+        "image_url": "https://media.rawg.io/media/games/e4f/e4fab00d5198c9727b1d6c694c5bed2b.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b1d4-cd9e-4a77-b1bd-3a7972bb63c7",
+        "game_id": "9a69b1d4-c7b0-49d5-94ca-76fa682e219b",
+        "image_url": "https://media.rawg.io/media/screenshots/78f/78fec6ff489a2d4f2aa1626e11f4b56a.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b1d4-cdf5-41e2-a286-c7fad333051a",
+        "game_id": "9a69b1d4-c7b0-49d5-94ca-76fa682e219b",
+        "image_url": "https://media.rawg.io/media/screenshots/357/35755163e1f15286e0fdae9f4c1f15d3.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b1d4-ce47-42f8-ba43-bf8d702cbc99",
+        "game_id": "9a69b1d4-c7b0-49d5-94ca-76fa682e219b",
+        "image_url": "https://media.rawg.io/media/screenshots/eae/eae886cc45757cc28e2dde3d74a57fd9.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b1d4-cea4-4b6c-8f88-0eec41dd5add",
+        "game_id": "9a69b1d4-c7b0-49d5-94ca-76fa682e219b",
+        "image_url": "https://media.rawg.io/media/screenshots/8a9/8a971006c6a659dd292136514f486244.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b1d4-cf0c-4ca7-ad2d-569f3a7eca86",
+        "game_id": "9a69b1d4-c7b0-49d5-94ca-76fa682e219b",
+        "image_url": "https://media.rawg.io/media/screenshots/a91/a91f909678ab11e75b83d99fdf2dbed8.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b1d4-d12a-4fe7-b395-1e42e34a9964",
+        "game_id": "9a69b1d4-c7b0-49d5-94ca-76fa682e219b",
+        "image_url": "https://media.rawg.io/media/screenshots/651/651b47675a3aa060195cfcd4a5ce0d26.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [
+      {
+        "id": "9a69b1d4-cbf0-4cb1-9f09-f5b6b31d8bf7",
+        "game_id": "9a69b1d4-c7b0-49d5-94ca-76fa682e219b",
+        "name": "Xbox Store",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b1d4-ccae-4528-b5c7-3dd8e4f707fe",
+        "game_id": "9a69b1d4-c7b0-49d5-94ca-76fa682e219b",
+        "name": "Xbox 360 Store",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "tags": [
+      {
+        "id": "9a69b1d4-d1ae-470c-802e-e0ee44dc7f77",
+        "game_id": "9a69b1d4-c7b0-49d5-94ca-76fa682e219b",
+        "name": "Singleplayer",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b1d4-d234-4c9c-b0ea-fe7554015224",
+        "game_id": "9a69b1d4-c7b0-49d5-94ca-76fa682e219b",
+        "name": "Multiplayer",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ]
+  },
+  {
+    "id": "9a69a203-454b-4459-9b55-f1eb19cca67e",
+    "slug": "gears-of-war",
+    "name": "Gears of War",
+    "playtime": 7,
+    "released": "2006-11-08",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/games/988/98834d39955e7f15d3717fac438128aa.jpg",
+    "rating": 4.11,
+    "rating_top": 4,
+    "ratings_count": 786,
+    "reviews_count": 792,
+    "metacritic": 90,
+    "suggestions_count": 656,
+    "esrb_rating": "Mature",
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69a203-4d7a-49dc-9c9d-565bc98d3946",
+        "game_id": "9a69a203-454b-4459-9b55-f1eb19cca67e",
+        "name": "Action",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a203-4df4-4669-be85-b93f54930a3b",
+        "game_id": "9a69a203-454b-4459-9b55-f1eb19cca67e",
+        "name": "Shooter",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69a203-465d-4d14-8f08-cc87fd84311a",
+        "game_id": "9a69a203-454b-4459-9b55-f1eb19cca67e",
+        "name": "Xbox 360",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a203-46fe-4245-84a0-fa952bb7ea18",
+        "game_id": "9a69a203-454b-4459-9b55-f1eb19cca67e",
+        "name": "Xbox One",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a203-4764-4872-bac9-b5dc6ca53f85",
+        "game_id": "9a69a203-454b-4459-9b55-f1eb19cca67e",
+        "name": "PC",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69a203-48bc-4dec-b5d3-95af0d0f17f1",
+        "game_id": "9a69a203-454b-4459-9b55-f1eb19cca67e",
+        "image_url": "https://media.rawg.io/media/games/988/98834d39955e7f15d3717fac438128aa.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a203-4926-46cd-8ca4-342bf1774acc",
+        "game_id": "9a69a203-454b-4459-9b55-f1eb19cca67e",
+        "image_url": "https://media.rawg.io/media/screenshots/854/854f930ed3b39cfd00eca91b7a99c7de.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a203-499f-4848-a55f-655ba52b3eb5",
+        "game_id": "9a69a203-454b-4459-9b55-f1eb19cca67e",
+        "image_url": "https://media.rawg.io/media/screenshots/342/34219a3368b000d8380714aa34fc85d0.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a203-4a05-4042-ac50-f76a5b65130e",
+        "game_id": "9a69a203-454b-4459-9b55-f1eb19cca67e",
+        "image_url": "https://media.rawg.io/media/screenshots/95d/95d43a23c2777d6e3f0e99505416da3b.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a203-4a66-4e2b-bee1-41480300c438",
+        "game_id": "9a69a203-454b-4459-9b55-f1eb19cca67e",
+        "image_url": "https://media.rawg.io/media/screenshots/c4a/c4a31b6dd94540e36695c617dd60f660.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a203-4ac7-4a22-8721-6f9b8a7b4df2",
+        "game_id": "9a69a203-454b-4459-9b55-f1eb19cca67e",
+        "image_url": "https://media.rawg.io/media/screenshots/6c9/6c95c707889a09fb592c04206d90d902.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a203-4b25-4172-8ab7-4cb41fc151ac",
+        "game_id": "9a69a203-454b-4459-9b55-f1eb19cca67e",
+        "image_url": "https://media.rawg.io/media/screenshots/e6a/e6a2e2de37eca634f0285adb91263867.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [
+      {
+        "id": "9a69a203-47de-4ea1-8f29-634a330d8398",
+        "game_id": "9a69a203-454b-4459-9b55-f1eb19cca67e",
+        "name": "Xbox Store",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a203-4850-43ee-b904-ecd33a8e2ebe",
+        "game_id": "9a69a203-454b-4459-9b55-f1eb19cca67e",
+        "name": "Xbox 360 Store",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "tags": [
+      {
+        "id": "9a69a203-4be5-45d5-9a0d-4c7ab1246181",
+        "game_id": "9a69a203-454b-4459-9b55-f1eb19cca67e",
+        "name": "War",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a203-4c64-4f92-aeb2-d7241c584e64",
+        "game_id": "9a69a203-454b-4459-9b55-f1eb19cca67e",
+        "name": "Monsters",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a203-4ccf-41fe-9d51-b6b051117802",
+        "game_id": "9a69a203-454b-4459-9b55-f1eb19cca67e",
+        "name": "invaders",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ]
+  },
+  {
+    "id": "9a69be7c-9903-46a6-a37e-fa4d27b2e795",
+    "slug": "n-o-v-a-2-near-orbit-vanguard-alliance",
+    "name": "N.O.V.A. 2: Near Orbit Vanguard Alliance",
+    "playtime": 0,
+    "released": "2010-12-15",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/d3d/d3da8f7894005e5425c0735600b5dee9.jpg",
+    "rating": 0,
+    "rating_top": 5,
+    "ratings_count": 4,
+    "reviews_count": 5,
+    "metacritic": 90,
+    "suggestions_count": 300,
+    "esrb_rating": "Mature",
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69be7c-9f94-4bef-93a6-3c9780967912",
+        "game_id": "9a69be7c-9903-46a6-a37e-fa4d27b2e795",
+        "name": "Action",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69be7c-9feb-4848-a527-47f250e09241",
+        "game_id": "9a69be7c-9903-46a6-a37e-fa4d27b2e795",
+        "name": "Shooter",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69be7c-9969-4178-a464-f405d3531316",
+        "game_id": "9a69be7c-9903-46a6-a37e-fa4d27b2e795",
+        "name": "Android",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69be7c-99b9-4e7a-9239-79920975e2bf",
+        "game_id": "9a69be7c-9903-46a6-a37e-fa4d27b2e795",
+        "name": "iOS",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69be7c-9a30-48cb-bc01-4e9f4fa05115",
+        "game_id": "9a69be7c-9903-46a6-a37e-fa4d27b2e795",
+        "image_url": "https://media.rawg.io/media/screenshots/d3d/d3da8f7894005e5425c0735600b5dee9.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69be7c-9ab8-4c48-b818-347bc36a84ea",
+        "game_id": "9a69be7c-9903-46a6-a37e-fa4d27b2e795",
+        "image_url": "https://media.rawg.io/media/screenshots/266/266e2ac550c462146487858f37aab7a7.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69be7c-9b55-434e-a253-e091f37480c9",
+        "game_id": "9a69be7c-9903-46a6-a37e-fa4d27b2e795",
+        "image_url": "https://media.rawg.io/media/screenshots/869/869ce0e0f9c5be2b616c8fe6649c7099.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69be7c-9bfe-47b3-a36c-6d56a2e749f8",
+        "game_id": "9a69be7c-9903-46a6-a37e-fa4d27b2e795",
+        "image_url": "https://media.rawg.io/media/screenshots/215/2159979e5fb3f4d1a65b4dfa951f2693.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69be7c-9c90-43e0-95bf-2822a89ca267",
+        "game_id": "9a69be7c-9903-46a6-a37e-fa4d27b2e795",
+        "image_url": "https://media.rawg.io/media/screenshots/c56/c5619192b3ee4e80dead01e5d09e112b.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69be7c-9cfe-43e9-8935-5df739c5fffa",
+        "game_id": "9a69be7c-9903-46a6-a37e-fa4d27b2e795",
+        "image_url": "https://media.rawg.io/media/screenshots/d3d/d3da8f7894005e5425c0735600b5dee9.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [],
+    "tags": [
+      {
+        "id": "9a69be7c-9d81-494c-804c-ce86d35a6e76",
+        "game_id": "9a69be7c-9903-46a6-a37e-fa4d27b2e795",
+        "name": "Sci-fi",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69be7c-9dfc-455f-bdef-5dacc387cf8e",
+        "game_id": "9a69be7c-9903-46a6-a37e-fa4d27b2e795",
+        "name": "android",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69be7c-9e6f-495e-b7fb-398dce6bdfa0",
+        "game_id": "9a69be7c-9903-46a6-a37e-fa4d27b2e795",
+        "name": "first-person-shooter",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69be7c-9edc-45ce-a238-d1287f882076",
+        "game_id": "9a69be7c-9903-46a6-a37e-fa4d27b2e795",
+        "name": "ios",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69be7c-9f32-4eb6-a96d-cc4ba7735833",
+        "game_id": "9a69be7c-9903-46a6-a37e-fa4d27b2e795",
+        "name": "mobile-game",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ]
+  },
+  {
+    "id": "9a69ba4a-d5e6-4fee-8bdb-671eb2703d06",
+    "slug": "beetle-adventure-racing",
+    "name": "Beetle Adventure Racing",
+    "playtime": 0,
+    "released": "1999-02-28",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/ea8/ea8f05d2d2f3bd7defed98512ad12de7.jpg",
+    "rating": 4.29,
+    "rating_top": 4,
+    "ratings_count": 7,
+    "reviews_count": 7,
+    "metacritic": 90,
+    "suggestions_count": 175,
+    "esrb_rating": null,
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69ba4a-db79-4a2a-b64e-a0782fe280a7",
+        "game_id": "9a69ba4a-d5e6-4fee-8bdb-671eb2703d06",
+        "name": "Racing",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69ba4a-d659-4918-9e24-0c11ffc2663c",
+        "game_id": "9a69ba4a-d5e6-4fee-8bdb-671eb2703d06",
+        "name": "Nintendo 64",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69ba4a-d6a1-4c5a-888e-5116013b2fc2",
+        "game_id": "9a69ba4a-d5e6-4fee-8bdb-671eb2703d06",
+        "image_url": "https://media.rawg.io/media/screenshots/ea8/ea8f05d2d2f3bd7defed98512ad12de7.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ba4a-d708-4f2a-a2d5-10db4e55039d",
+        "game_id": "9a69ba4a-d5e6-4fee-8bdb-671eb2703d06",
+        "image_url": "https://media.rawg.io/media/screenshots/82d/82d8aa21bcecb19db6a19250543d69a9.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ba4a-d78e-41d0-b77c-7b0699bc6a0c",
+        "game_id": "9a69ba4a-d5e6-4fee-8bdb-671eb2703d06",
+        "image_url": "https://media.rawg.io/media/screenshots/887/887c7358865fcfce30f3e7fa8a8e5d11.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ba4a-d7f6-4f94-a1f0-a5ccf4ea83c3",
+        "game_id": "9a69ba4a-d5e6-4fee-8bdb-671eb2703d06",
+        "image_url": "https://media.rawg.io/media/screenshots/e42/e42ac85e3415f20f3b0e28502f084960.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ba4a-d868-4b9c-9107-5bb2a0396627",
+        "game_id": "9a69ba4a-d5e6-4fee-8bdb-671eb2703d06",
+        "image_url": "https://media.rawg.io/media/screenshots/833/833e89884099ad3f07666739975e7935.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ba4a-d8f4-4191-a47e-f9082a339f21",
+        "game_id": "9a69ba4a-d5e6-4fee-8bdb-671eb2703d06",
+        "image_url": "https://media.rawg.io/media/screenshots/771/771a27c22d15b15929c279116e2422e4.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ba4a-d94f-414a-aac7-2288e0da2ded",
+        "game_id": "9a69ba4a-d5e6-4fee-8bdb-671eb2703d06",
+        "image_url": "https://media.rawg.io/media/screenshots/ea8/ea8f05d2d2f3bd7defed98512ad12de7.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [],
+    "tags": [
+      {
+        "id": "9a69ba4a-d9a3-468e-b03b-ca13d37208a5",
+        "game_id": "9a69ba4a-d5e6-4fee-8bdb-671eb2703d06",
+        "name": "Singleplayer",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ba4a-da0b-4b1e-998a-de35ff09c2a8",
+        "game_id": "9a69ba4a-d5e6-4fee-8bdb-671eb2703d06",
+        "name": "Multiplayer",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ba4a-da6c-4f23-b870-551e530d0e87",
+        "game_id": "9a69ba4a-d5e6-4fee-8bdb-671eb2703d06",
+        "name": "exclusive",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ba4a-dace-4b14-91fa-33b7e42b3156",
+        "game_id": "9a69ba4a-d5e6-4fee-8bdb-671eb2703d06",
+        "name": "true exclusive",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ]
+  },
+  {
+    "id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+    "slug": "mass-effect",
+    "name": "Mass Effect",
+    "playtime": 9,
+    "released": "2007-11-16",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/games/a6c/a6ccd34125c594abf1a9c9821b9a715d.jpg",
+    "rating": 4.39,
+    "rating_top": 5,
+    "ratings_count": 2532,
+    "reviews_count": 2552,
+    "metacritic": 89,
+    "suggestions_count": 519,
+    "esrb_rating": "Mature",
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69a1a8-e258-4e19-bfaa-ef41694f7d2e",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "name": "Action",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-e2a4-43a9-af2f-13617d8d4434",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "name": "RPG",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69a1a8-d3b3-438c-96fa-99f9b9b9fe59",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "name": "Xbox One",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-d45d-4a4f-9ce4-ead60c97bacc",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "name": "Xbox 360",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-d4d9-427e-8365-0f0b8ead12d4",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "name": "PlayStation 3",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-d53f-4075-a73f-cade2a52822d",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "name": "PC",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69a1a8-d81b-498f-ab65-0d4879e02bf2",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "image_url": "https://media.rawg.io/media/games/a6c/a6ccd34125c594abf1a9c9821b9a715d.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-d897-4127-8de8-7e8e78f9e044",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "image_url": "https://media.rawg.io/media/screenshots/2c7/2c710533fe55e02facda408ce681640e.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-d936-4048-bb64-dda110d13a70",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "image_url": "https://media.rawg.io/media/screenshots/f42/f42d116fcc691213ac11f651e231b214.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-d9f8-4da9-8205-0cef3a26bbfc",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "image_url": "https://media.rawg.io/media/screenshots/5db/5db5afc10fa39739c96c05f455f5d253.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-da9b-43b4-8afc-a85306e2ef58",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "image_url": "https://media.rawg.io/media/screenshots/7af/7af44f9b67fe50d162d630f07ae6900b.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-db69-4548-995d-438073d065e2",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "image_url": "https://media.rawg.io/media/screenshots/67e/67e4fa3122553e5ad52b97d0efecf0e1.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-dc28-4bf5-8a64-701bdf2061f4",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "image_url": "https://media.rawg.io/media/screenshots/196/196268519e753a7d53fbee7040fde318.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [
+      {
+        "id": "9a69a1a8-d5aa-4fce-9cfc-4be7c458e875",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "name": "Xbox Store",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-d60d-4a30-bd22-0ff7c4bd456d",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "name": "PlayStation Store",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-d66c-44df-af7d-665573352756",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "name": "Steam",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-d783-4bc3-b205-503df3fa348f",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "name": "Xbox 360 Store",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "tags": [
+      {
+        "id": "9a69a1a8-dcb3-4858-a4e2-ab931333cacf",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "name": "Singleplayer",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-dd1a-4597-942e-a7a3483e236b",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "name": "Atmospheric",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-dd6d-44e2-ba67-1bc09b2bbd18",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "name": "Great Soundtrack",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-ddc8-4b73-8b22-f1ab23d950f3",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "name": "RPG",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-de29-4abf-bd63-58276854c069",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "name": "Story Rich",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-de95-428d-ad69-d67b7b248ad7",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "name": "Open World",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-dee6-4fb6-b40f-9b3775816d29",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "name": "Third Person",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-df2e-4b1d-acba-f09bc7753dd2",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "name": "Sci-fi",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-df72-4a8a-ac37-2c36f2667b59",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "name": "Female Protagonist",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-dfc7-4fab-bdf1-c1a9a4dc9c47",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "name": "Action RPG",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-e0a0-46c5-acf8-a7d692023502",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "name": "Third-Person Shooter",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-e0de-4f2f-8ef8-01920ca23391",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "name": "Space",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-e11d-4bef-b336-7f77012ad958",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "name": "Character Customization",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-e154-47b4-9124-67c7ccb82cf7",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "name": "Choices Matter",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-e18b-4a88-862f-f241861f2e47",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "name": "Dark Fantasy",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-e1c3-4119-adaf-898b212e16da",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "name": "Real-Time with Pause",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a1a8-e20f-4237-b854-33dfe702e461",
+        "game_id": "9a69a1a8-d23a-4540-849a-136e4acfab4b",
+        "name": "Romance",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ]
+  },
+  {
+    "id": "9a69aae7-1b55-4ade-bf9c-c2cf29b15102",
+    "slug": "mario-kart-wii",
+    "name": "Mario Kart Wii",
+    "playtime": 12,
+    "released": "2008-04-27",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/68a/68a5dfb584c006bb3064b83881669aaf.jpg",
+    "rating": 4.3,
+    "rating_top": 4,
+    "ratings_count": 295,
+    "reviews_count": 296,
+    "metacritic": 82,
+    "suggestions_count": 368,
+    "esrb_rating": "Everyone",
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69aae7-23d8-48f2-be31-dd25064559d9",
+        "game_id": "9a69aae7-1b55-4ade-bf9c-c2cf29b15102",
+        "name": "Racing",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69aae7-1cac-4d43-9a1e-ac4d402c435e",
+        "game_id": "9a69aae7-1b55-4ade-bf9c-c2cf29b15102",
+        "name": "Wii",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69aae7-1e98-42c6-9a3d-39cba76c0d2b",
+        "game_id": "9a69aae7-1b55-4ade-bf9c-c2cf29b15102",
+        "image_url": "https://media.rawg.io/media/screenshots/68a/68a5dfb584c006bb3064b83881669aaf.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69aae7-1f1b-42c8-9f30-539c1f1e99b1",
+        "game_id": "9a69aae7-1b55-4ade-bf9c-c2cf29b15102",
+        "image_url": "https://media.rawg.io/media/screenshots/145/145f3ab5169fec11a8424617437f0a04.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69aae7-1f87-43b9-830a-96ac27f353e4",
+        "game_id": "9a69aae7-1b55-4ade-bf9c-c2cf29b15102",
+        "image_url": "https://media.rawg.io/media/screenshots/54e/54e9b2f049e66efcc7bcacff1df88749.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69aae7-1fff-4ded-b486-02a9ce6f1bc8",
+        "game_id": "9a69aae7-1b55-4ade-bf9c-c2cf29b15102",
+        "image_url": "https://media.rawg.io/media/screenshots/b21/b2129efd98efe793c9920c2a836a1ec3.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69aae7-20e1-4258-b4cb-a8eb3a2964e1",
+        "game_id": "9a69aae7-1b55-4ade-bf9c-c2cf29b15102",
+        "image_url": "https://media.rawg.io/media/screenshots/1a3/1a3181ac781e6f5f9a2f675c25109df1.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69aae7-21d3-4146-90a5-07bfdf6b7b53",
+        "game_id": "9a69aae7-1b55-4ade-bf9c-c2cf29b15102",
+        "image_url": "https://media.rawg.io/media/screenshots/f90/f90066ecaa344b3f30fd587280b40053.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69aae7-2290-47ad-8784-91ae0d3fd663",
+        "game_id": "9a69aae7-1b55-4ade-bf9c-c2cf29b15102",
+        "image_url": "https://media.rawg.io/media/screenshots/cbb/cbbfcdda2fe6ac53c26057d7b9041777.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [
+      {
+        "id": "9a69aae7-1dc8-4faa-ac92-d143feaf586b",
+        "game_id": "9a69aae7-1b55-4ade-bf9c-c2cf29b15102",
+        "name": "Nintendo Store",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "tags": [
+      {
+        "id": "9a69aae7-2319-4317-84ef-d8fab802a6ca",
+        "game_id": "9a69aae7-1b55-4ade-bf9c-c2cf29b15102",
+        "name": "exclusive",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69aae7-2385-410c-91f3-e3d17eb202aa",
+        "game_id": "9a69aae7-1b55-4ade-bf9c-c2cf29b15102",
+        "name": "true exclusive",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ]
+  },
+  {
+    "id": "9a69b01d-2051-4d50-b9f3-50005a029a95",
+    "slug": "suikoden-ii-2014",
+    "name": "Suikoden II",
+    "playtime": 12,
+    "released": "1998-12-17",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/games/bf3/bf312ce4aec593cd4d58f8aebee8eb35.jpg",
+    "rating": 4.37,
+    "rating_top": 5,
+    "ratings_count": 62,
+    "reviews_count": 62,
+    "metacritic": 82,
+    "suggestions_count": 715,
+    "esrb_rating": "Teen",
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69b01d-2603-4c9e-8828-6c7fd7bf6ca1",
+        "game_id": "9a69b01d-2051-4d50-b9f3-50005a029a95",
+        "name": "RPG",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69b01d-2104-45c4-a74d-7ccd892d1849",
+        "game_id": "9a69b01d-2051-4d50-b9f3-50005a029a95",
+        "name": "PlayStation",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69b01d-2196-49b8-afe0-7db11aa59d94",
+        "game_id": "9a69b01d-2051-4d50-b9f3-50005a029a95",
+        "image_url": "https://media.rawg.io/media/games/bf3/bf312ce4aec593cd4d58f8aebee8eb35.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b01d-2228-46e8-85a9-4478dfe0cb16",
+        "game_id": "9a69b01d-2051-4d50-b9f3-50005a029a95",
+        "image_url": "https://media.rawg.io/media/screenshots/677/677402473083d25ce5b7850439520e4a.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b01d-22d7-45db-8af8-fb730132d9bc",
+        "game_id": "9a69b01d-2051-4d50-b9f3-50005a029a95",
+        "image_url": "https://media.rawg.io/media/screenshots/e2e/e2e7f0fdd1873f3aac6d3545ce436d9d.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b01d-238b-418a-bd33-5e6a645f2353",
+        "game_id": "9a69b01d-2051-4d50-b9f3-50005a029a95",
+        "image_url": "https://media.rawg.io/media/screenshots/497/49759fe3dab4844912e3a48fb1645088.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b01d-2407-4124-b249-2fd50b3dc3b9",
+        "game_id": "9a69b01d-2051-4d50-b9f3-50005a029a95",
+        "image_url": "https://media.rawg.io/media/screenshots/5aa/5aaa1058697c96f277c2fd2869a8d531.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b01d-2465-47de-a2a5-52ffe5882fa3",
+        "game_id": "9a69b01d-2051-4d50-b9f3-50005a029a95",
+        "image_url": "https://media.rawg.io/media/screenshots/6f7/6f7406e216cd41a506dad5e311889a11.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b01d-24bf-4b29-9ed5-0cc08df8d11d",
+        "game_id": "9a69b01d-2051-4d50-b9f3-50005a029a95",
+        "image_url": "https://media.rawg.io/media/screenshots/527/5276ba444dfe641d25b4373261cb7e99.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [],
+    "tags": [
+      {
+        "id": "9a69b01d-2517-4c0e-85ce-68f66d1c1c8d",
+        "game_id": "9a69b01d-2051-4d50-b9f3-50005a029a95",
+        "name": "Singleplayer",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b01d-2581-4458-8625-f59ef5bdd2e3",
+        "game_id": "9a69b01d-2051-4d50-b9f3-50005a029a95",
+        "name": "exclusive",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ]
+  },
+  {
+    "id": "9a69f08d-a069-4e9e-a357-299f35b28558",
+    "slug": "kudos",
+    "name": "Kudos",
+    "playtime": 0,
+    "released": "2006-07-13",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/436/4368ebe5aaa9070d9a5377dc28c3a2db.jpg",
+    "rating": 0,
+    "rating_top": 0,
+    "ratings_count": 3,
+    "reviews_count": 3,
+    "metacritic": null,
+    "suggestions_count": 329,
+    "esrb_rating": null,
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69f08d-a443-49ef-9051-bf99d37e1e54",
+        "game_id": "9a69f08d-a069-4e9e-a357-299f35b28558",
+        "name": "Strategy",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69f08d-a0ea-4803-bc50-248a6d400b97",
+        "game_id": "9a69f08d-a069-4e9e-a357-299f35b28558",
+        "name": "PC",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69f08d-a161-4bd9-9f8f-c26f135d3614",
+        "game_id": "9a69f08d-a069-4e9e-a357-299f35b28558",
+        "image_url": "https://media.rawg.io/media/screenshots/436/4368ebe5aaa9070d9a5377dc28c3a2db.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69f08d-a1f1-4f63-a0cb-d6186eda3b8b",
+        "game_id": "9a69f08d-a069-4e9e-a357-299f35b28558",
+        "image_url": "https://media.rawg.io/media/screenshots/bd9/bd98fc4582c9eeae886ca9c0e3fb6d0d.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69f08d-a278-40a1-b71f-8173d8f175dc",
+        "game_id": "9a69f08d-a069-4e9e-a357-299f35b28558",
+        "image_url": "https://media.rawg.io/media/screenshots/8a9/8a9811078aa54ec96af2128ca5fdb602.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69f08d-a2e4-460d-9918-a64362675bc2",
+        "game_id": "9a69f08d-a069-4e9e-a357-299f35b28558",
+        "image_url": "https://media.rawg.io/media/screenshots/321/321d94c5ebda9ced77f185d62b93438b.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69f08d-a342-434f-a233-2afe639a83a6",
+        "game_id": "9a69f08d-a069-4e9e-a357-299f35b28558",
+        "image_url": "https://media.rawg.io/media/screenshots/0dd/0dd00f9d4dff884f983ffd3969c03fb7.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69f08d-a396-4008-8449-0e1ca98242e4",
+        "game_id": "9a69f08d-a069-4e9e-a357-299f35b28558",
+        "image_url": "https://media.rawg.io/media/screenshots/44d/44dbed358f5d6d6ce2d233cbf3609009.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69f08d-a3e5-410e-91a8-f5401a1ba540",
+        "game_id": "9a69f08d-a069-4e9e-a357-299f35b28558",
+        "image_url": "https://media.rawg.io/media/screenshots/c46/c4698fafbb54fb6bb43aea34d915fa62.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [],
+    "tags": []
+  },
+  {
+    "id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+    "slug": "ak-xolotl",
+    "name": "AK-xolotl",
+    "playtime": 0,
+    "released": "2023-09-14",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/4fa/4fa6a774505e9863b0ba91e8d8a217f2.jpg",
+    "rating": 0,
+    "rating_top": 0,
+    "ratings_count": 2,
+    "reviews_count": 2,
+    "metacritic": null,
+    "suggestions_count": 147,
+    "esrb_rating": null,
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69bf1b-eb2b-4f40-bee1-a1785210cfe3",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "name": "Action",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bf1b-eb6c-420e-a7cc-58c79fa07bd8",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "name": "Shooter",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bf1b-eb9d-47e0-bd33-8f65da0420b4",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "name": "Indie",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69bf1b-e243-4083-9ebb-7bc1356b3e53",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "name": "PC",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69bf1b-e2c3-4111-8145-2431f04cf06e",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "image_url": "https://media.rawg.io/media/screenshots/4fa/4fa6a774505e9863b0ba91e8d8a217f2.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bf1b-e2f9-4f9c-aac8-7b75026e1ec9",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "image_url": "https://media.rawg.io/media/screenshots/bde/bdee35550dbf5bdc0eaeac3e2c9bea48.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bf1b-e32e-4735-ad55-88c961b9fc2c",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "image_url": "https://media.rawg.io/media/screenshots/5d7/5d7614f43a2a246c24a9b40dc4736494.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bf1b-e3a7-4a10-8fff-3849db6b63a7",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "image_url": "https://media.rawg.io/media/screenshots/0ec/0ec11b7128917c9b2f66ed635413c236.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bf1b-e3f5-440d-98e8-00f45d4f8d52",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "image_url": "https://media.rawg.io/media/screenshots/6c2/6c2855d1052de0f295de9d43253474bb.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bf1b-e43c-4fb7-87b1-818593b09cd1",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "image_url": "https://media.rawg.io/media/screenshots/4fa/4fa6a774505e9863b0ba91e8d8a217f2.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [
+      {
+        "id": "9a69bf1b-e28a-460b-ace6-7e02beb54c26",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "name": "Steam",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "tags": [
+      {
+        "id": "9a69bf1b-e494-493e-bb0b-b3dc02cc7114",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "name": "Singleplayer",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bf1b-e4ef-468a-ba9a-f30be4077a54",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "name": "Steam Achievements",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bf1b-e535-4b1c-bf92-7cd0aa93ec29",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "name": "Full controller support",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bf1b-e5ba-4b14-b582-0c229699a6b4",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "name": "Steam Cloud",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bf1b-e621-45e2-8239-0c994759890a",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "name": "RPG",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bf1b-e66a-4ad3-aea1-b78af626873a",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "name": "2D",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bf1b-e6a2-4c4f-95c0-00e5055b5d95",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "name": "Funny",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bf1b-e6db-484e-aa89-4d75516dd860",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "name": "Difficult",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bf1b-e742-423e-bc34-ff58622eec0d",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "name": "Pixel Graphics",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bf1b-e79c-4279-b302-b03cb81d7045",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "name": "Cute",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bf1b-e7ee-4cc0-ac75-990ef60f0bac",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "name": "Colorful",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bf1b-e84d-46f6-abdf-73d381a3fe8d",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "name": "Roguelike",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bf1b-e8dc-4f15-8daf-1269e1735807",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "name": "Roguelite",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bf1b-e92c-4479-befc-06ac426b042f",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "name": "Dungeon Crawler",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bf1b-e972-4b58-8e3f-fcb13e3d028b",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "name": "Bullet Hell",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bf1b-e9a8-4fc5-b622-dd5d72536445",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "name": "Cartoony",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bf1b-e9e2-4630-adbe-78be72f4d1a1",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "name": "Top-Down Shooter",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bf1b-ea23-4758-bde8-986266814637",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "name": "Twin Stick Shooter",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bf1b-ea64-41e9-ac14-29768c05b0ca",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "name": "Arena Shooter",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bf1b-eaa6-4030-be23-e707258d5b89",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "name": "Action Roguelike",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bf1b-eae5-4a37-b93e-a4668b715267",
+        "game_id": "9a69bf1b-e1ff-4e44-a143-11429a03556d",
+        "name": "?????-?????",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ]
+  },
+  {
+    "id": "9a69b88f-9ad4-4c0a-bc6a-ec36753c1d33",
+    "slug": "cube-escape-the-mill",
+    "name": "Cube Escape: The Mill",
+    "playtime": 0,
+    "released": "2015-09-05",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/4d7/4d7c437604ea9c4dd99a3efabeebe862.jpg",
+    "rating": 4.3,
+    "rating_top": 4,
+    "ratings_count": 20,
+    "reviews_count": 20,
+    "metacritic": null,
+    "suggestions_count": 99,
+    "esrb_rating": "Teen",
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69b88f-aad0-4d9b-a71a-149c7ab5906d",
+        "game_id": "9a69b88f-9ad4-4c0a-bc6a-ec36753c1d33",
+        "name": "Adventure",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b88f-ab58-499b-bbfa-adec7e68185a",
+        "game_id": "9a69b88f-9ad4-4c0a-bc6a-ec36753c1d33",
+        "name": "Puzzle",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69b88f-9b70-4e3f-ac55-228134ed0c8a",
+        "game_id": "9a69b88f-9ad4-4c0a-bc6a-ec36753c1d33",
+        "name": "Android",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b88f-9d09-4c5f-81ea-6599736d667a",
+        "game_id": "9a69b88f-9ad4-4c0a-bc6a-ec36753c1d33",
+        "name": "iOS",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69b88f-9ef1-4c9e-a054-567695509a3f",
+        "game_id": "9a69b88f-9ad4-4c0a-bc6a-ec36753c1d33",
+        "image_url": "https://media.rawg.io/media/screenshots/4d7/4d7c437604ea9c4dd99a3efabeebe862.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b88f-a318-4877-9f5b-a9531164e5b4",
+        "game_id": "9a69b88f-9ad4-4c0a-bc6a-ec36753c1d33",
+        "image_url": "https://media.rawg.io/media/screenshots/8c3/8c3e1b11ce3fd417963def4c38604163_jSIfpXh.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b88f-a456-45dd-ac76-45ff8bb9ef77",
+        "game_id": "9a69b88f-9ad4-4c0a-bc6a-ec36753c1d33",
+        "image_url": "https://media.rawg.io/media/screenshots/19f/19fa9f4bb52a5a716b37ed2665e39ce0_IYqlSJh.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b88f-a534-4f6f-95ce-6925d4ef9546",
+        "game_id": "9a69b88f-9ad4-4c0a-bc6a-ec36753c1d33",
+        "image_url": "https://media.rawg.io/media/screenshots/2ad/2ad5b17c685820649db66a301f312c95_QyGWCDv.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b88f-a5bb-43ac-8f1b-d5231b083974",
+        "game_id": "9a69b88f-9ad4-4c0a-bc6a-ec36753c1d33",
+        "image_url": "https://media.rawg.io/media/screenshots/eae/eaea4a33378407a26429a70b93699861.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b88f-a67c-43f2-b506-c244cb808c43",
+        "game_id": "9a69b88f-9ad4-4c0a-bc6a-ec36753c1d33",
+        "image_url": "https://media.rawg.io/media/screenshots/db7/db743be738414310bf3c2b69932370d8.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b88f-a711-4d06-8400-1d427a4d28c6",
+        "game_id": "9a69b88f-9ad4-4c0a-bc6a-ec36753c1d33",
+        "image_url": "https://media.rawg.io/media/screenshots/c81/c816f48ed7a104fa1d460f6dcace7dd7.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [
+      {
+        "id": "9a69b88f-9dc0-4956-8a15-ffa486897321",
+        "game_id": "9a69b88f-9ad4-4c0a-bc6a-ec36753c1d33",
+        "name": "Google Play",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b88f-9e4b-45e8-830a-1f5dbf38e919",
+        "game_id": "9a69b88f-9ad4-4c0a-bc6a-ec36753c1d33",
+        "name": "App Store",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "tags": [
+      {
+        "id": "9a69b88f-a79b-4b44-8a95-caf66306daa2",
+        "game_id": "9a69b88f-9ad4-4c0a-bc6a-ec36753c1d33",
+        "name": "Story",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b88f-a825-4b88-b0bf-4317a58e1d4a",
+        "game_id": "9a69b88f-9ad4-4c0a-bc6a-ec36753c1d33",
+        "name": "escape",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b88f-a930-450b-89ea-516f2fdf337f",
+        "game_id": "9a69b88f-9ad4-4c0a-bc6a-ec36753c1d33",
+        "name": "cube",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b88f-aa22-434d-a9f5-5b07fa32f1ff",
+        "game_id": "9a69b88f-9ad4-4c0a-bc6a-ec36753c1d33",
+        "name": "tap",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ]
+  },
+  {
+    "id": "9a69bea9-c35a-49a5-8348-40c9498deb04",
+    "slug": "star-wars-yoda-stories",
+    "name": "Star Wars: Yoda Stories",
+    "playtime": 0,
+    "released": "1997-01-01",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/692/692a336eca8c81149789e68f0cb1dd8c.jpg",
+    "rating": 0,
+    "rating_top": 3,
+    "ratings_count": 5,
+    "reviews_count": 5,
+    "metacritic": null,
+    "suggestions_count": 187,
+    "esrb_rating": null,
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69bea9-c851-4bf2-92fe-ae9b5a161343",
+        "game_id": "9a69bea9-c35a-49a5-8348-40c9498deb04",
+        "name": "Adventure",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bea9-c899-4a4b-8308-02ae61a6cc14",
+        "game_id": "9a69bea9-c35a-49a5-8348-40c9498deb04",
+        "name": "Arcade",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69bea9-c3b8-4199-baa7-a1d50205f367",
+        "game_id": "9a69bea9-c35a-49a5-8348-40c9498deb04",
+        "name": "Game Boy Color",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bea9-c409-4dbf-9303-dc247d8111d8",
+        "game_id": "9a69bea9-c35a-49a5-8348-40c9498deb04",
+        "name": "PC",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69bea9-c454-46a2-8126-82b70558f734",
+        "game_id": "9a69bea9-c35a-49a5-8348-40c9498deb04",
+        "image_url": "https://media.rawg.io/media/screenshots/692/692a336eca8c81149789e68f0cb1dd8c.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bea9-c4a9-4158-920d-71b861fd11fc",
+        "game_id": "9a69bea9-c35a-49a5-8348-40c9498deb04",
+        "image_url": "https://media.rawg.io/media/screenshots/883/8832fde069564a681e23dc3d533ff6f4.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bea9-c4ee-4701-af9c-8256a3ebd64b",
+        "game_id": "9a69bea9-c35a-49a5-8348-40c9498deb04",
+        "image_url": "https://media.rawg.io/media/screenshots/d99/d99ebfc6be7c0c9a7087d6d286170d9d.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bea9-c64b-43e7-bc71-4704c552dd29",
+        "game_id": "9a69bea9-c35a-49a5-8348-40c9498deb04",
+        "image_url": "https://media.rawg.io/media/screenshots/183/183f18a139f2a92e8c5fbe4ecb5e0c24_vkCKz07.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bea9-c6b7-4580-b961-1921d147ff03",
+        "game_id": "9a69bea9-c35a-49a5-8348-40c9498deb04",
+        "image_url": "https://media.rawg.io/media/screenshots/9b6/9b6050c209453b8b2e5e2dbc259fc4e1.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bea9-c71d-4da3-8b8e-761b91fccf17",
+        "game_id": "9a69bea9-c35a-49a5-8348-40c9498deb04",
+        "image_url": "https://media.rawg.io/media/screenshots/fde/fde83ca7a0249b252c3cc38b8c31b904.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bea9-c76e-4ee7-b277-d8536bf8c6ed",
+        "game_id": "9a69bea9-c35a-49a5-8348-40c9498deb04",
+        "image_url": "https://media.rawg.io/media/screenshots/4df/4df0ee9543fc6a0e76d2303fb984b329.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [],
+    "tags": [
+      {
+        "id": "9a69bea9-c7d9-4096-93cf-05f22f14614b",
+        "game_id": "9a69bea9-c35a-49a5-8348-40c9498deb04",
+        "name": "Singleplayer",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ]
+  },
+  {
+    "id": "9a69a5d5-75a4-42fb-9327-020b6d2804fd",
+    "slug": "h1z1-battle-royale",
+    "name": "H1Z1: Battle Royale",
+    "playtime": 0,
+    "released": "2018-05-22",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/games/fe2/fe2777f4da17b86743b95217e1fd5915.jpg",
+    "rating": 2.05,
+    "rating_top": 1,
+    "ratings_count": 65,
+    "reviews_count": 66,
+    "metacritic": null,
+    "suggestions_count": 166,
+    "esrb_rating": "Teen",
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69a5d5-7bc8-4fe2-956a-d03cfbd8c757",
+        "game_id": "9a69a5d5-75a4-42fb-9327-020b6d2804fd",
+        "name": "Shooter",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69a5d5-7668-4d7f-a604-706095baac44",
+        "game_id": "9a69a5d5-75a4-42fb-9327-020b6d2804fd",
+        "name": "PlayStation 4",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a5d5-76fd-4e42-86f4-f348b6b445ed",
+        "game_id": "9a69a5d5-75a4-42fb-9327-020b6d2804fd",
+        "name": "PC",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69a5d5-78b4-4e56-8320-d6a1b3ffd701",
+        "game_id": "9a69a5d5-75a4-42fb-9327-020b6d2804fd",
+        "image_url": "https://media.rawg.io/media/games/fe2/fe2777f4da17b86743b95217e1fd5915.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a5d5-7934-4c9d-b2c4-7126f46a324b",
+        "game_id": "9a69a5d5-75a4-42fb-9327-020b6d2804fd",
+        "image_url": "https://media.rawg.io/media/screenshots/db1/db1d173b105e499592048d126d7de43d.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a5d5-79b1-4dd9-a8b7-40e561962c71",
+        "game_id": "9a69a5d5-75a4-42fb-9327-020b6d2804fd",
+        "image_url": "https://media.rawg.io/media/screenshots/fbc/fbc18d88ee059ea8f2183caf383d4950.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a5d5-7a25-4701-bd09-be5ae1f3b279",
+        "game_id": "9a69a5d5-75a4-42fb-9327-020b6d2804fd",
+        "image_url": "https://media.rawg.io/media/screenshots/bc2/bc2731816a84279b9d66aa9bb7779b60.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [
+      {
+        "id": "9a69a5d5-778b-4948-8dd9-354a3e739270",
+        "game_id": "9a69a5d5-75a4-42fb-9327-020b6d2804fd",
+        "name": "Steam",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a5d5-780d-43b3-b26e-fbe0aeedc3de",
+        "game_id": "9a69a5d5-75a4-42fb-9327-020b6d2804fd",
+        "name": "PlayStation Store",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "tags": [
+      {
+        "id": "9a69a5d5-7a9e-4052-bd05-31893271feb9",
+        "game_id": "9a69a5d5-75a4-42fb-9327-020b6d2804fd",
+        "name": "online",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a5d5-7b1c-4312-bb89-50f6dca4aae4",
+        "game_id": "9a69a5d5-75a4-42fb-9327-020b6d2804fd",
+        "name": "battle",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ]
+  },
+  {
+    "id": "9a69c070-711f-41f8-adc3-b1106b90d3fc",
+    "slug": "hare-raising-havoc",
+    "name": "Hare Raising Havoc",
+    "playtime": 0,
+    "released": "1991-01-01",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/7e6/7e6d41ce153b9057a226aefffeae4a3a.jpg",
+    "rating": 0,
+    "rating_top": 0,
+    "ratings_count": 2,
+    "reviews_count": 2,
+    "metacritic": null,
+    "suggestions_count": 248,
+    "esrb_rating": null,
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69c070-75fa-4430-b1f7-e68532f99e9f",
+        "game_id": "9a69c070-711f-41f8-adc3-b1106b90d3fc",
+        "name": "Adventure",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69c070-719a-460b-813a-51b4e099ded8",
+        "game_id": "9a69c070-711f-41f8-adc3-b1106b90d3fc",
+        "name": "Commodore / Amiga",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69c070-721d-4354-a0b2-bbe98208d59b",
+        "game_id": "9a69c070-711f-41f8-adc3-b1106b90d3fc",
+        "name": "PC",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69c070-729b-4970-960a-6775d448c978",
+        "game_id": "9a69c070-711f-41f8-adc3-b1106b90d3fc",
+        "image_url": "https://media.rawg.io/media/screenshots/7e6/7e6d41ce153b9057a226aefffeae4a3a.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69c070-7309-4f3f-8c9c-e61ea9b20aca",
+        "game_id": "9a69c070-711f-41f8-adc3-b1106b90d3fc",
+        "image_url": "https://media.rawg.io/media/screenshots/964/964be8b21c986a9a2e6b817fdb716bb4.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69c070-7397-4ef2-a1fe-00a00f8819ef",
+        "game_id": "9a69c070-711f-41f8-adc3-b1106b90d3fc",
+        "image_url": "https://media.rawg.io/media/screenshots/7a8/7a8616a380c1b8eb0e9ebb59187217ed.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69c070-73fc-4342-9de5-d43c4e749f72",
+        "game_id": "9a69c070-711f-41f8-adc3-b1106b90d3fc",
+        "image_url": "https://media.rawg.io/media/screenshots/d11/d115818747c7b7ce3b30e15839f15689.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69c070-7454-4ad6-a0f9-5ed08e254bec",
+        "game_id": "9a69c070-711f-41f8-adc3-b1106b90d3fc",
+        "image_url": "https://media.rawg.io/media/screenshots/b9a/b9a33f2f4a504977e37df8da693084b7.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69c070-74d4-4b5e-9e40-4727cbe854dc",
+        "game_id": "9a69c070-711f-41f8-adc3-b1106b90d3fc",
+        "image_url": "https://media.rawg.io/media/screenshots/b0d/b0df52bedf5fb9140d838acd5a4a2eb6.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69c070-753a-463c-8807-33b77f4a7bf1",
+        "game_id": "9a69c070-711f-41f8-adc3-b1106b90d3fc",
+        "image_url": "https://media.rawg.io/media/screenshots/921/9218e3f37872df04c1be801ac440b964.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [],
+    "tags": [
+      {
+        "id": "9a69c070-7596-4c0c-9f1b-2d8fd7cca801",
+        "game_id": "9a69c070-711f-41f8-adc3-b1106b90d3fc",
+        "name": "Singleplayer",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ]
+  },
+  {
+    "id": "9a69bd98-3cb1-410f-bf66-bd1df81b8b48",
+    "slug": "fifa-soccer",
+    "name": "FIFA Soccer",
+    "playtime": 0,
+    "released": "2016-10-11",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/a41/a416e0a1d280999dbe3bdcb6b750b23c.jpg",
+    "rating": 3.89,
+    "rating_top": 5,
+    "ratings_count": 9,
+    "reviews_count": 9,
+    "metacritic": null,
+    "suggestions_count": 358,
+    "esrb_rating": null,
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69bd98-45b6-4f14-a868-f23d2290d060",
+        "game_id": "9a69bd98-3cb1-410f-bf66-bd1df81b8b48",
+        "name": "Simulation",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd98-4619-4bdb-af01-f4ac66367921",
+        "game_id": "9a69bd98-3cb1-410f-bf66-bd1df81b8b48",
+        "name": "Sports",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69bd98-3d0e-49fa-90ff-aaa4e957cb0a",
+        "game_id": "9a69bd98-3cb1-410f-bf66-bd1df81b8b48",
+        "name": "PC",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd98-3d58-4c73-968a-81d22143d151",
+        "game_id": "9a69bd98-3cb1-410f-bf66-bd1df81b8b48",
+        "name": "Android",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd98-3d9f-4b24-9c46-61fcdf582e79",
+        "game_id": "9a69bd98-3cb1-410f-bf66-bd1df81b8b48",
+        "name": "iOS",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69bd98-3e9e-433d-bed8-8505caa5515b",
+        "game_id": "9a69bd98-3cb1-410f-bf66-bd1df81b8b48",
+        "image_url": "https://media.rawg.io/media/screenshots/a41/a416e0a1d280999dbe3bdcb6b750b23c.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd98-3f0a-4950-a537-bf1de9d79f92",
+        "game_id": "9a69bd98-3cb1-410f-bf66-bd1df81b8b48",
+        "image_url": "https://media.rawg.io/media/screenshots/1ea/1ea829e0c85845e4b680ad99162f34b8.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd98-3f65-4ef7-b368-081c094de2b4",
+        "game_id": "9a69bd98-3cb1-410f-bf66-bd1df81b8b48",
+        "image_url": "https://media.rawg.io/media/screenshots/580/580702addedbc91e3b7c35723f063595_wJ8A92v.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd98-3fba-44e7-99db-23fd7fd6148c",
+        "game_id": "9a69bd98-3cb1-410f-bf66-bd1df81b8b48",
+        "image_url": "https://media.rawg.io/media/screenshots/90e/90e70d801e58fad71aff284d765b62d7_5cjg4oX.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd98-400c-47e6-b244-808467978979",
+        "game_id": "9a69bd98-3cb1-410f-bf66-bd1df81b8b48",
+        "image_url": "https://media.rawg.io/media/screenshots/de8/de8eb9dae428e588f40e85a14ac71469_EtJeGxs.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd98-40a4-4a35-84d4-feb80402ca6b",
+        "game_id": "9a69bd98-3cb1-410f-bf66-bd1df81b8b48",
+        "image_url": "https://media.rawg.io/media/screenshots/4e9/4e9b106acab597faac8b9ad69764662d.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd98-410a-48ec-93ff-e027808ee30f",
+        "game_id": "9a69bd98-3cb1-410f-bf66-bd1df81b8b48",
+        "image_url": "https://media.rawg.io/media/screenshots/3e8/3e8c9a24fa356e1357d23059e579769f.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [
+      {
+        "id": "9a69bd98-3de8-4d19-a884-21d0af29a9d7",
+        "game_id": "9a69bd98-3cb1-410f-bf66-bd1df81b8b48",
+        "name": "App Store",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd98-3e4e-432c-8300-8dbe95ad86fd",
+        "game_id": "9a69bd98-3cb1-410f-bf66-bd1df81b8b48",
+        "name": "Google Play",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "tags": [
+      {
+        "id": "9a69bd98-41ad-492f-89e9-6e7292f413b8",
+        "game_id": "9a69bd98-3cb1-410f-bf66-bd1df81b8b48",
+        "name": "Building",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd98-4240-43ee-aa07-078dac730af0",
+        "game_id": "9a69bd98-3cb1-410f-bf66-bd1df81b8b48",
+        "name": "friends",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd98-430d-40d9-958c-95b269d7e34a",
+        "game_id": "9a69bd98-3cb1-410f-bf66-bd1df81b8b48",
+        "name": "Soccer",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd98-43bb-41dc-af9f-e26bcb0c772d",
+        "game_id": "9a69bd98-3cb1-410f-bf66-bd1df81b8b48",
+        "name": "match",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd98-442b-4474-b66d-76d3bd6ee94c",
+        "game_id": "9a69bd98-3cb1-410f-bf66-bd1df81b8b48",
+        "name": "fly",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd98-44bd-4761-8333-50a01db333a1",
+        "game_id": "9a69bd98-3cb1-410f-bf66-bd1df81b8b48",
+        "name": "mobile",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd98-452a-4e62-b173-b7c4c9034016",
+        "game_id": "9a69bd98-3cb1-410f-bf66-bd1df81b8b48",
+        "name": "train",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ]
+  },
+  {
+    "id": "9a69bda8-bbbe-438b-bfa0-525eb2c3d84c",
+    "slug": "loading",
+    "name": "Loading",
+    "playtime": 6,
+    "released": "2017-08-24",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/e69/e69002d9439f75c19b52e542051069ff.jpg",
+    "rating": 0,
+    "rating_top": 0,
+    "ratings_count": 0,
+    "reviews_count": 0,
+    "metacritic": null,
+    "suggestions_count": 16,
+    "esrb_rating": null,
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69bda8-c1b0-4682-92d4-4626a78dcd01",
+        "game_id": "9a69bda8-bbbe-438b-bfa0-525eb2c3d84c",
+        "name": "Simulation",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bda8-c21a-4ef4-a066-b21b1734e217",
+        "game_id": "9a69bda8-bbbe-438b-bfa0-525eb2c3d84c",
+        "name": "Casual",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69bda8-bc25-420b-8344-58ee2ebc66ac",
+        "game_id": "9a69bda8-bbbe-438b-bfa0-525eb2c3d84c",
+        "name": "PC",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69bda8-bcea-4d22-8fa6-4452d873c6b5",
+        "game_id": "9a69bda8-bbbe-438b-bfa0-525eb2c3d84c",
+        "image_url": "https://media.rawg.io/media/screenshots/e69/e69002d9439f75c19b52e542051069ff.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bda8-bd44-4086-a268-026497b06994",
+        "game_id": "9a69bda8-bbbe-438b-bfa0-525eb2c3d84c",
+        "image_url": "https://media.rawg.io/media/screenshots/a73/a730450d0ed2e97b49fc6d006ea41de0.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bda8-bd9c-40f2-8757-de12efb331e7",
+        "game_id": "9a69bda8-bbbe-438b-bfa0-525eb2c3d84c",
+        "image_url": "https://media.rawg.io/media/screenshots/3d9/3d9d185f050f9fbd5d80f29daf53e5f9.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bda8-be23-45a3-8202-6f1a4505508c",
+        "game_id": "9a69bda8-bbbe-438b-bfa0-525eb2c3d84c",
+        "image_url": "https://media.rawg.io/media/screenshots/4be/4bea07f04d1a32c178539368cfc373a0.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bda8-bece-4c35-a654-2000e61e5f79",
+        "game_id": "9a69bda8-bbbe-438b-bfa0-525eb2c3d84c",
+        "image_url": "https://media.rawg.io/media/screenshots/ae1/ae140e9a6a586c66b7e6faf15117f9ab.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bda8-bf53-4892-bce6-912798bc9e10",
+        "game_id": "9a69bda8-bbbe-438b-bfa0-525eb2c3d84c",
+        "image_url": "https://media.rawg.io/media/screenshots/279/2792ef3fa0c58fa669fd8481eeb0612f.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bda8-bfc4-4554-8feb-5040908bf949",
+        "game_id": "9a69bda8-bbbe-438b-bfa0-525eb2c3d84c",
+        "image_url": "https://media.rawg.io/media/screenshots/e69/e69002d9439f75c19b52e542051069ff.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [
+      {
+        "id": "9a69bda8-bc88-4117-a738-d7cb9fb72c59",
+        "game_id": "9a69bda8-bbbe-438b-bfa0-525eb2c3d84c",
+        "name": "Steam",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "tags": [
+      {
+        "id": "9a69bda8-c025-4111-975a-1e5ec17f0610",
+        "game_id": "9a69bda8-bbbe-438b-bfa0-525eb2c3d84c",
+        "name": "Singleplayer",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bda8-c08a-4fcf-aeab-2e653bfb7b60",
+        "game_id": "9a69bda8-bbbe-438b-bfa0-525eb2c3d84c",
+        "name": "Steam Achievements",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bda8-c0e7-4e89-8b68-12e32141588a",
+        "game_id": "9a69bda8-bbbe-438b-bfa0-525eb2c3d84c",
+        "name": "Full controller support",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bda8-c153-4078-bcc2-9ac66895603b",
+        "game_id": "9a69bda8-bbbe-438b-bfa0-525eb2c3d84c",
+        "name": "steam-trading-cards",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ]
+  },
+  {
+    "id": "9a69b953-c53b-4491-be29-0c58fd482acc",
+    "slug": "sexy-beach-3",
+    "name": "Sexy Beach 3",
+    "playtime": 0,
+    "released": "2006-09-29",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/bcd/bcdb2ec9db8368439f3756f06e54b203.jpg",
+    "rating": 4.2,
+    "rating_top": 5,
+    "ratings_count": 10,
+    "reviews_count": 10,
+    "metacritic": null,
+    "suggestions_count": 304,
+    "esrb_rating": "Adults Only",
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69b953-d032-4040-98f1-b15caad964f5",
+        "game_id": "9a69b953-c53b-4491-be29-0c58fd482acc",
+        "name": "Arcade",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69b953-c650-4d86-a008-84ab1cbda21e",
+        "game_id": "9a69b953-c53b-4491-be29-0c58fd482acc",
+        "name": "PC",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69b953-c719-4f3b-8e90-ae6ac3ddfe4c",
+        "game_id": "9a69b953-c53b-4491-be29-0c58fd482acc",
+        "image_url": "https://media.rawg.io/media/screenshots/bcd/bcdb2ec9db8368439f3756f06e54b203.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b953-c7a5-406a-86b9-3390dd8c2043",
+        "game_id": "9a69b953-c53b-4491-be29-0c58fd482acc",
+        "image_url": "https://media.rawg.io/media/screenshots/48b/48b60d8f986e01456b1a624b213684d1.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b953-c823-4d57-b905-3946bf45efd9",
+        "game_id": "9a69b953-c53b-4491-be29-0c58fd482acc",
+        "image_url": "https://media.rawg.io/media/screenshots/e93/e93bc32a948eee3f681433510725f7fe.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b953-c8a8-41b5-b27c-4f9cb255ea13",
+        "game_id": "9a69b953-c53b-4491-be29-0c58fd482acc",
+        "image_url": "https://media.rawg.io/media/screenshots/3ec/3ec67b6c98208717c9ebeee05f5b9761.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b953-c98b-4deb-8552-24fee0a1361d",
+        "game_id": "9a69b953-c53b-4491-be29-0c58fd482acc",
+        "image_url": "https://media.rawg.io/media/screenshots/542/542356b67162abbc126f2248e8757e48.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b953-cb3d-4778-8fa4-f08f5a529e44",
+        "game_id": "9a69b953-c53b-4491-be29-0c58fd482acc",
+        "image_url": "https://media.rawg.io/media/screenshots/ed4/ed46dbb2c9126df19df8743220fb8c16.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b953-cbba-4f4c-a5c6-8197af6b83cc",
+        "game_id": "9a69b953-c53b-4491-be29-0c58fd482acc",
+        "image_url": "https://media.rawg.io/media/screenshots/703/7035508317aefd30aef971c2cd21e52a.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [],
+    "tags": [
+      {
+        "id": "9a69b953-cc35-4529-9a91-6822c0634344",
+        "game_id": "9a69b953-c53b-4491-be29-0c58fd482acc",
+        "name": "NSFW",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b953-ced8-4a34-94b0-9dee3647c999",
+        "game_id": "9a69b953-c53b-4491-be29-0c58fd482acc",
+        "name": "hentai",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b953-cf73-4ed0-bc72-68e54a303ea1",
+        "game_id": "9a69b953-c53b-4491-be29-0c58fd482acc",
+        "name": "adult",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b953-cfd3-46b0-9f3b-9018435bc529",
+        "game_id": "9a69b953-c53b-4491-be29-0c58fd482acc",
+        "name": "eroge",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ]
+  },
+  {
+    "id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+    "slug": "pleasure-party",
+    "name": "Pleasure Party",
+    "playtime": 2,
+    "released": "2022-01-14",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/320/32021df66036e205f625ab5795c5951c.jpg",
+    "rating": 0,
+    "rating_top": 0,
+    "ratings_count": 0,
+    "reviews_count": 0,
+    "metacritic": null,
+    "suggestions_count": 401,
+    "esrb_rating": null,
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69bd7f-c909-4c00-b4d2-b2a4516b2ee8",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "name": "Simulation",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd7f-c983-4485-95fd-d3c701969624",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "name": "Casual",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69bd7f-bbde-4243-95c8-7f800749e874",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "name": "PC",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69bd7f-bcb3-4ed3-9be2-8fc944a45fef",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "image_url": "https://media.rawg.io/media/screenshots/320/32021df66036e205f625ab5795c5951c.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd7f-bd1d-4951-a349-94555197d68e",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "image_url": "https://media.rawg.io/media/screenshots/3ce/3cead78957c62e78b778d09f5dfa8b51.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd7f-bd7d-4e9d-a331-cdec79f332d7",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "image_url": "https://media.rawg.io/media/screenshots/0d9/0d971df61193615c90a803c4fd83970b.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd7f-bde6-4b1f-b492-aabdd8ca6daf",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "image_url": "https://media.rawg.io/media/screenshots/544/544b4499191bdff51d6335be8d01b9d8.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd7f-be5b-4b4f-ab65-532d2a383467",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "image_url": "https://media.rawg.io/media/screenshots/38d/38d050db7e82fbb883a8ad85b2912245.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd7f-bec1-4a6d-b6a0-7eb8dbeb2ee8",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "image_url": "https://media.rawg.io/media/screenshots/320/32021df66036e205f625ab5795c5951c.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [
+      {
+        "id": "9a69bd7f-bc46-4f3e-a935-3c6b9ad57437",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "name": "Steam",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "tags": [
+      {
+        "id": "9a69bd7f-bf31-45de-bdd9-29349c69819e",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "name": "Singleplayer",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd7f-bf92-4ca4-b392-7e6f8b45db70",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "name": "Steam Cloud",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd7f-bfed-424c-ac2d-d022e9bd22e2",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "name": "Third Person",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd7f-c04d-4075-b707-a777cce736eb",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "name": "Sandbox",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd7f-c0ac-4b4f-a706-ffe8d72c364b",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "name": "Female Protagonist",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd7f-c10c-4142-a51d-f77a24a0bb89",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "name": "Point \u0026 Click",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd7f-c173-4cc1-b265-f7405d13459e",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "name": "Nudity",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd7f-c1dc-477f-b76b-857d68a87546",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "name": "Cute",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd7f-c25e-4450-934d-2a352a905a26",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "name": "Mature",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd7f-c2ca-47cb-9552-b8f4368fff9e",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "name": "Colorful",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd7f-c334-490f-a3c6-1d8993fc2f2d",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "name": "Realistic",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd7f-c393-4a4b-9262-06a371cf2351",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "name": "3D",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd7f-c3ef-444f-a2d4-4c6875e1c616",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "name": "Sexual Content",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd7f-c481-43c7-871a-c8e0755cf637",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "name": "Stylized",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd7f-c4f0-4716-80a0-2f2e6db05322",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "name": "Cartoony",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd7f-c586-49f8-8949-323b4d70259a",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "name": "Dating Sim",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd7f-c68b-4418-9842-a8187930bd0a",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "name": "Immersive Sim",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd7f-c75e-485d-8ce5-f8c0ce2b40cf",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "name": "?????????????",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd7f-c7cb-4071-a64b-820b10b93bee",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "name": "NSFW",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd7f-c82d-49e1-8bcd-99eb49ba4f92",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "name": "Life Sim",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd7f-c895-4508-8494-be7bcfb39d76",
+        "game_id": "9a69bd7f-bb5c-4771-849b-51c36d6f3c7f",
+        "name": "Time Management",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ]
+  },
+  {
+    "id": "9a69b09a-7c12-4560-93d3-6f1b45731fbe",
+    "slug": "tank-mechanic",
+    "name": "Tank Mechanic",
+    "playtime": 3,
+    "released": "2018-06-06",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/e26/e26f0fe78cc10cf818cab5fd2f819a93.jpg",
+    "rating": 3.7,
+    "rating_top": 4,
+    "ratings_count": 9,
+    "reviews_count": 10,
+    "metacritic": 57,
+    "suggestions_count": 297,
+    "esrb_rating": null,
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69b09a-83ba-49b7-8df7-959e228cb3c7",
+        "game_id": "9a69b09a-7c12-4560-93d3-6f1b45731fbe",
+        "name": "Simulation",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69b09a-7cc2-4bb9-af31-84611bf14675",
+        "game_id": "9a69b09a-7c12-4560-93d3-6f1b45731fbe",
+        "name": "PC",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69b09a-7e13-4ee7-abda-0c2a70797448",
+        "game_id": "9a69b09a-7c12-4560-93d3-6f1b45731fbe",
+        "image_url": "https://media.rawg.io/media/screenshots/e26/e26f0fe78cc10cf818cab5fd2f819a93.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b09a-7f24-4536-8412-e22ec33cf49f",
+        "game_id": "9a69b09a-7c12-4560-93d3-6f1b45731fbe",
+        "image_url": "https://media.rawg.io/media/screenshots/752/7529419a984565e3b141833529da010d.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b09a-7fdb-47e8-9586-f5293734ada4",
+        "game_id": "9a69b09a-7c12-4560-93d3-6f1b45731fbe",
+        "image_url": "https://media.rawg.io/media/screenshots/753/753514999f2fbaa3e46b9466ed54e908.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b09a-8066-4a3a-ba29-6d61529420ea",
+        "game_id": "9a69b09a-7c12-4560-93d3-6f1b45731fbe",
+        "image_url": "https://media.rawg.io/media/screenshots/083/083a75ba3bed0c4ba15e7a9a7be864e9.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b09a-80f7-4596-a31c-2cd61582747f",
+        "game_id": "9a69b09a-7c12-4560-93d3-6f1b45731fbe",
+        "image_url": "https://media.rawg.io/media/screenshots/104/1048b9ab558082444d26ab576cd17e6a.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b09a-81c2-4071-afca-b91912e99986",
+        "game_id": "9a69b09a-7c12-4560-93d3-6f1b45731fbe",
+        "image_url": "https://media.rawg.io/media/screenshots/e26/e26f0fe78cc10cf818cab5fd2f819a93.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [
+      {
+        "id": "9a69b09a-7d48-46ef-acac-2c0e99ef4086",
+        "game_id": "9a69b09a-7c12-4560-93d3-6f1b45731fbe",
+        "name": "Steam",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "tags": [
+      {
+        "id": "9a69b09a-82d8-4500-93e9-f564d3968610",
+        "game_id": "9a69b09a-7c12-4560-93d3-6f1b45731fbe",
+        "name": "Singleplayer",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ]
+  },
+  {
+    "id": "9a69b217-2dff-4775-8053-672e029f2848",
+    "slug": "project-reboot",
+    "name": "Project: R.E.B.O.O.T",
+    "playtime": 3,
+    "released": "2016-10-26",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/b0d/b0d928c24c8fcf98a36d6986107a07e4.jpg",
+    "rating": 0,
+    "rating_top": 0,
+    "ratings_count": 0,
+    "reviews_count": 0,
+    "metacritic": null,
+    "suggestions_count": 54,
+    "esrb_rating": null,
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69b217-3702-4316-b89a-d537431b5e87",
+        "game_id": "9a69b217-2dff-4775-8053-672e029f2848",
+        "name": "Action",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b217-3842-400e-afd0-fccd7a81c954",
+        "game_id": "9a69b217-2dff-4775-8053-672e029f2848",
+        "name": "Adventure",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b217-398b-42c6-8aed-6e8d01a086c0",
+        "game_id": "9a69b217-2dff-4775-8053-672e029f2848",
+        "name": "Casual",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b217-3a4f-48b4-80a9-4fb3c3f313c4",
+        "game_id": "9a69b217-2dff-4775-8053-672e029f2848",
+        "name": "Indie",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b217-3aae-43f8-bb91-1aaf9bda07dc",
+        "game_id": "9a69b217-2dff-4775-8053-672e029f2848",
+        "name": "Platformer",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69b217-2ec3-4bc8-b566-5fd938a85982",
+        "game_id": "9a69b217-2dff-4775-8053-672e029f2848",
+        "name": "PC",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69b217-3021-4144-9fdd-b5677d4166df",
+        "game_id": "9a69b217-2dff-4775-8053-672e029f2848",
+        "image_url": "https://media.rawg.io/media/screenshots/b0d/b0d928c24c8fcf98a36d6986107a07e4.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b217-309f-486c-a74e-1439e501c5ba",
+        "game_id": "9a69b217-2dff-4775-8053-672e029f2848",
+        "image_url": "https://media.rawg.io/media/screenshots/17e/17e6ad247cf42672696f80040591143b.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b217-3210-4dd1-8bd0-286f416ea544",
+        "game_id": "9a69b217-2dff-4775-8053-672e029f2848",
+        "image_url": "https://media.rawg.io/media/screenshots/c3c/c3c262b4875ce0079d835c33f74c65c8.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b217-336b-4176-b951-4835cc2765b8",
+        "game_id": "9a69b217-2dff-4775-8053-672e029f2848",
+        "image_url": "https://media.rawg.io/media/screenshots/d50/d501659510c92fa105787a8b8ea7c2b4.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b217-33e5-481e-b39e-d5a9fb0a40f4",
+        "game_id": "9a69b217-2dff-4775-8053-672e029f2848",
+        "image_url": "https://media.rawg.io/media/screenshots/d09/d09e456d3d695e9116c57e1a873e60a7.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b217-344d-4cc3-907e-b2186b5bfbc1",
+        "game_id": "9a69b217-2dff-4775-8053-672e029f2848",
+        "image_url": "https://media.rawg.io/media/screenshots/da6/da66efd40f30a42535e5f7de42e85f58.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b217-34a9-4169-b75f-20ac216da06f",
+        "game_id": "9a69b217-2dff-4775-8053-672e029f2848",
+        "image_url": "https://media.rawg.io/media/screenshots/751/7519bff5a45ea0bf75467101635f3823.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [
+      {
+        "id": "9a69b217-2f39-4bea-94cf-a1ea74339cb7",
+        "game_id": "9a69b217-2dff-4775-8053-672e029f2848",
+        "name": "itch.io",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b217-2fc1-438f-98d8-4014e0c3436c",
+        "game_id": "9a69b217-2dff-4775-8053-672e029f2848",
+        "name": "Steam",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "tags": [
+      {
+        "id": "9a69b217-352b-4f6c-a090-45551fed91d5",
+        "game_id": "9a69b217-2dff-4775-8053-672e029f2848",
+        "name": "Singleplayer",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b217-358c-4411-8512-83e1f2cb1c9c",
+        "game_id": "9a69b217-2dff-4775-8053-672e029f2848",
+        "name": "steam-trading-cards",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b217-35e6-4b76-8349-f58d6e49843e",
+        "game_id": "9a69b217-2dff-4775-8053-672e029f2848",
+        "name": "3D",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b217-3656-46e2-a452-81b868bcaf2b",
+        "game_id": "9a69b217-2dff-4775-8053-672e029f2848",
+        "name": "3D Platformer",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ]
+  },
+  {
+    "id": "9a69bd41-36f5-496e-99b5-43f2abe5f477",
+    "slug": "digital-devil-story-megami-tensei",
+    "name": "Digital Devil Story: Megami Tensei",
+    "playtime": 0,
+    "released": "1987-09-11",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/769/76920c6a6f53f8d6beae00a3c630ed5e.jpg",
+    "rating": 0,
+    "rating_top": 0,
+    "ratings_count": 4,
+    "reviews_count": 4,
+    "metacritic": null,
+    "suggestions_count": 260,
+    "esrb_rating": null,
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69bd41-3add-4cc0-9dbf-3fac850f8cb3",
+        "game_id": "9a69bd41-36f5-496e-99b5-43f2abe5f477",
+        "name": "RPG",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69bd41-3762-459d-a669-f27d0c6a4716",
+        "game_id": "9a69bd41-36f5-496e-99b5-43f2abe5f477",
+        "name": "NES",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69bd41-37b9-4300-8d46-a1a28a1b3819",
+        "game_id": "9a69bd41-36f5-496e-99b5-43f2abe5f477",
+        "image_url": "https://media.rawg.io/media/screenshots/769/76920c6a6f53f8d6beae00a3c630ed5e.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd41-3809-4ab6-b1c9-1e5406f3d3b9",
+        "game_id": "9a69bd41-36f5-496e-99b5-43f2abe5f477",
+        "image_url": "https://media.rawg.io/media/screenshots/a84/a84cfb240e1eca8133b67899bbb34180.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd41-3855-4257-9dc8-220d7a6bb997",
+        "game_id": "9a69bd41-36f5-496e-99b5-43f2abe5f477",
+        "image_url": "https://media.rawg.io/media/screenshots/5a0/5a0649da73b4cb6c205592cdaa747119.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd41-38a2-4aa8-a263-16530504da80",
+        "game_id": "9a69bd41-36f5-496e-99b5-43f2abe5f477",
+        "image_url": "https://media.rawg.io/media/screenshots/c89/c89029328421591318aa5b5f2274f456.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd41-38fd-4e67-8d31-b6a6e472e193",
+        "game_id": "9a69bd41-36f5-496e-99b5-43f2abe5f477",
+        "image_url": "https://media.rawg.io/media/screenshots/2f6/2f6027cb179d6d1747b300e1c4c970b2.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd41-395e-46b9-b897-02a5f3f3ca14",
+        "game_id": "9a69bd41-36f5-496e-99b5-43f2abe5f477",
+        "image_url": "https://media.rawg.io/media/screenshots/fc1/fc12f6e090da5352a9a9fb2b6b227903.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bd41-3a05-4a93-a5ec-e0d385fd3989",
+        "game_id": "9a69bd41-36f5-496e-99b5-43f2abe5f477",
+        "image_url": "https://media.rawg.io/media/screenshots/ac0/ac0670dced5142e07ce8f1baef873ffa.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [],
+    "tags": [
+      {
+        "id": "9a69bd41-3a7e-4709-929a-66c566783cfc",
+        "game_id": "9a69bd41-36f5-496e-99b5-43f2abe5f477",
+        "name": "fan-translation",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ]
+  },
+  {
+    "id": "9a69c0b3-9f5e-4a0b-b686-036fe347ad9f",
+    "slug": "enviro-bear-2010",
+    "name": "Enviro-Bear 2010",
+    "playtime": 0,
+    "released": "2009-07-08",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/848/848f70336800ca3f8f542c75f1d2fcd6.jpg",
+    "rating": 0,
+    "rating_top": 0,
+    "ratings_count": 4,
+    "reviews_count": 4,
+    "metacritic": null,
+    "suggestions_count": 208,
+    "esrb_rating": "Everyone 10+",
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69c0b3-b39b-41a6-bf8a-40ed8814f1ea",
+        "game_id": "9a69c0b3-9f5e-4a0b-b686-036fe347ad9f",
+        "name": "Simulation",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69c0b3-b3f4-4d38-acbb-6c40256b17be",
+        "game_id": "9a69c0b3-9f5e-4a0b-b686-036fe347ad9f",
+        "name": "Arcade",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69c0b3-b452-4898-96bd-fa4a961cfab1",
+        "game_id": "9a69c0b3-9f5e-4a0b-b686-036fe347ad9f",
+        "name": "Casual",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69c0b3-9fe1-40a7-a522-80d0f83157ff",
+        "game_id": "9a69c0b3-9f5e-4a0b-b686-036fe347ad9f",
+        "name": "Android",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69c0b3-a039-4500-b06c-368d47ed696e",
+        "game_id": "9a69c0b3-9f5e-4a0b-b686-036fe347ad9f",
+        "name": "iOS",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69c0b3-a188-452c-809d-1f899fb9f3d8",
+        "game_id": "9a69c0b3-9f5e-4a0b-b686-036fe347ad9f",
+        "image_url": "https://media.rawg.io/media/screenshots/848/848f70336800ca3f8f542c75f1d2fcd6.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69c0b3-a1fd-4cea-9b71-527dbf2be026",
+        "game_id": "9a69c0b3-9f5e-4a0b-b686-036fe347ad9f",
+        "image_url": "https://media.rawg.io/media/screenshots/325/325d98c780343de1091a563fa4852b17_NpG5pOy.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69c0b3-a2b3-4ca7-bdeb-7d70aef6e696",
+        "game_id": "9a69c0b3-9f5e-4a0b-b686-036fe347ad9f",
+        "image_url": "https://media.rawg.io/media/screenshots/eee/eeea2089502b56e3a22a735ace6a64f8_oCdIMN8.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69c0b3-a440-4102-ab76-72fd998db039",
+        "game_id": "9a69c0b3-9f5e-4a0b-b686-036fe347ad9f",
+        "image_url": "https://media.rawg.io/media/screenshots/2d1/2d1f5cf598993e4eb0c17c904de5cd96_NFKBIuD.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69c0b3-a526-4beb-9a60-533e2b7e4573",
+        "game_id": "9a69c0b3-9f5e-4a0b-b686-036fe347ad9f",
+        "image_url": "https://media.rawg.io/media/screenshots/849/8491802fbdc1ea7c0023e339d56e8be6.jpeg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69c0b3-a5bb-43f3-99c5-846cdbc17b45",
+        "game_id": "9a69c0b3-9f5e-4a0b-b686-036fe347ad9f",
+        "image_url": "https://media.rawg.io/media/screenshots/15f/15f1f99466b2888e6ab6698e1adf4188.jpeg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69c0b3-a632-4cc5-a415-fb06c4db4de7",
+        "game_id": "9a69c0b3-9f5e-4a0b-b686-036fe347ad9f",
+        "image_url": "https://media.rawg.io/media/screenshots/df8/df8ac2ebb064db1848c042c796b77f17.jpeg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [
+      {
+        "id": "9a69c0b3-a093-41ad-b235-ba54d1b78538",
+        "game_id": "9a69c0b3-9f5e-4a0b-b686-036fe347ad9f",
+        "name": "Google Play",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69c0b3-a0f6-413b-a03a-ffd0f0ec9f97",
+        "game_id": "9a69c0b3-9f5e-4a0b-b686-036fe347ad9f",
+        "name": "App Store",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "tags": [
+      {
+        "id": "9a69c0b3-a6ae-49d8-944a-34a76959b3ca",
+        "game_id": "9a69c0b3-9f5e-4a0b-b686-036fe347ad9f",
+        "name": "Driving",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69c0b3-a7bc-40d6-9d76-9c36c4fad675",
+        "game_id": "9a69c0b3-9f5e-4a0b-b686-036fe347ad9f",
+        "name": "cars",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69c0b3-a854-4589-ae2b-349780384aab",
+        "game_id": "9a69c0b3-9f5e-4a0b-b686-036fe347ad9f",
+        "name": "humor",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69c0b3-a955-46a8-a9c6-dbd8d0c4da70",
+        "game_id": "9a69c0b3-9f5e-4a0b-b686-036fe347ad9f",
+        "name": "car",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69c0b3-aa2f-4a16-9df2-d91ed6c35377",
+        "game_id": "9a69c0b3-9f5e-4a0b-b686-036fe347ad9f",
+        "name": "god",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69c0b3-aa98-43f0-9cf6-ebad7a69e0cb",
+        "game_id": "9a69c0b3-9f5e-4a0b-b686-036fe347ad9f",
+        "name": "windows",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69c0b3-ab6a-41e0-bd29-3c33a959be86",
+        "game_id": "9a69c0b3-9f5e-4a0b-b686-036fe347ad9f",
+        "name": "crazy",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69c0b3-ad72-46f4-a72b-b824b333f567",
+        "game_id": "9a69c0b3-9f5e-4a0b-b686-036fe347ad9f",
+        "name": "bear",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69c0b3-b302-4d0c-88bc-10fbdb3d2522",
+        "game_id": "9a69c0b3-9f5e-4a0b-b686-036fe347ad9f",
+        "name": "cave",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ]
+  },
+  {
+    "id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+    "slug": "molemen-must-die",
+    "name": "Molemen Must Die!",
+    "playtime": 4,
+    "released": "2017-03-21",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/258/2580772cec694c35d023200d3029347c.jpg",
+    "rating": 0,
+    "rating_top": 0,
+    "ratings_count": 1,
+    "reviews_count": 1,
+    "metacritic": null,
+    "suggestions_count": 327,
+    "esrb_rating": null,
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69b770-e00c-463a-9813-f04e4429f3e4",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "name": "Action",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b770-e05d-479a-9ae8-9f1c5639b12a",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "name": "Indie",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69b770-cd58-4def-b1b4-7ef5d2c4ab2a",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "name": "macOS",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b770-ce51-4a42-aad5-8d25173a193d",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "name": "Linux",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b770-cfcf-4c38-8050-790a602c2811",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "name": "PC",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69b770-d13f-4c68-be2f-d621c5b0be53",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "image_url": "https://media.rawg.io/media/screenshots/258/2580772cec694c35d023200d3029347c.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b770-d1e1-4690-b048-96fc2222dc7e",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "image_url": "https://media.rawg.io/media/screenshots/394/39440c4efaba65ee36a3c423297bdaca.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b770-d3b0-435d-bd80-c969008e7ef9",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "image_url": "https://media.rawg.io/media/screenshots/ce4/ce4e66e9838754d453c4adfed9faf383.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b770-d4dd-474c-9807-d15c7ad386ff",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "image_url": "https://media.rawg.io/media/screenshots/02f/02f0dcdb45c1d532ae731c59b139cef8.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b770-d60c-44a7-b328-c45b430bc2f6",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "image_url": "https://media.rawg.io/media/screenshots/4cd/4cdceeefed722a3e0ea1c68c59f6f66d.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b770-d77b-48be-8a3a-618af049c26d",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "image_url": "https://media.rawg.io/media/screenshots/d71/d7160c62745c734eb04abacd202b6433.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b770-d9cb-445f-b9d9-fa765ebc2e1e",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "image_url": "https://media.rawg.io/media/screenshots/f19/f19188a0a2289d306f3857e3f06f1e86.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [
+      {
+        "id": "9a69b770-d08e-41d3-9595-0e5269178814",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "name": "Steam",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "tags": [
+      {
+        "id": "9a69b770-da43-48c8-bb34-f3d76cdcf34c",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "name": "Singleplayer",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b770-daa8-47ed-b663-d6f376d2a37a",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "name": "Steam Achievements",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b770-db01-43d3-bfa0-bb8647f690e8",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "name": "Full controller support",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b770-db7e-4dd6-86d4-b34b2b0cf498",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "name": "Steam Cloud",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b770-dbe0-4084-b7f6-5fb256c8b4d2",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "name": "steam-trading-cards",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b770-dc3d-4ec1-8fc1-99ccd5dcb9d5",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "name": "2D",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b770-dca0-452a-8cda-5d06106d4345",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "name": "Steam Leaderboards",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b770-dcee-457d-b982-7bcbffe692c6",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "name": "Difficult",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b770-dd31-4bfe-a4f3-e0ac8e207629",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "name": "Female Protagonist",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b770-dd7b-4be0-8cf0-fb3fee586cae",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "name": "Pixel Graphics",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b770-ddc3-4244-887a-06cdf613c709",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "name": "Controller",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b770-de15-4129-9f1c-30469bf48b87",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "name": "Retro",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b770-de66-4db5-8572-11a2f50bb11d",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "name": "Roguelite",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b770-deb4-4771-bf0d-c89cee763fc5",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "name": "Destruction",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b770-df14-4030-ac6a-bf45e3b9d04a",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "name": "Politics",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b770-dfba-47c4-98a2-27c9e34ec777",
+        "game_id": "9a69b770-cc94-441d-9516-d6856dd06b05",
+        "name": "Underground",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ]
+  },
+  {
+    "id": "9a69abb4-1287-4784-a629-49f52a6bec32",
+    "slug": "life-is-strange-remastered",
+    "name": "Life is Strange Remastered",
+    "playtime": 4,
+    "released": "2022-02-01",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/games/e3f/e3fc11718acfeac81c05cbcc394dae2f.jpg",
+    "rating": 3.67,
+    "rating_top": 4,
+    "ratings_count": 64,
+    "reviews_count": 64,
+    "metacritic": null,
+    "suggestions_count": 454,
+    "esrb_rating": "Mature",
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69abb4-1960-46d1-bd87-280fcaf825dc",
+        "game_id": "9a69abb4-1287-4784-a629-49f52a6bec32",
+        "name": "Adventure",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69abb4-1405-4659-9893-27bad78569d6",
+        "game_id": "9a69abb4-1287-4784-a629-49f52a6bec32",
+        "name": "Xbox Series S/X",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69abb4-149e-4b15-a91a-ee212bcc0fff",
+        "game_id": "9a69abb4-1287-4784-a629-49f52a6bec32",
+        "name": "PlayStation 5",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69abb4-1509-4d3c-acce-9a2b389e863d",
+        "game_id": "9a69abb4-1287-4784-a629-49f52a6bec32",
+        "name": "PC",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69abb4-1571-4d84-a116-0a6d6260aada",
+        "game_id": "9a69abb4-1287-4784-a629-49f52a6bec32",
+        "name": "Xbox One",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69abb4-15d3-42ad-94ef-8d9337f55dd7",
+        "game_id": "9a69abb4-1287-4784-a629-49f52a6bec32",
+        "name": "PlayStation 4",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69abb4-167c-45ca-97ce-470a520bdc7c",
+        "game_id": "9a69abb4-1287-4784-a629-49f52a6bec32",
+        "image_url": "https://media.rawg.io/media/games/e3f/e3fc11718acfeac81c05cbcc394dae2f.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69abb4-16f3-40a9-988c-897cc133f0fe",
+        "game_id": "9a69abb4-1287-4784-a629-49f52a6bec32",
+        "image_url": "https://media.rawg.io/media/screenshots/34c/34c94f1120c3f5f90f83a1193f603e09.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69abb4-1759-4f14-9e03-ae0be379de48",
+        "game_id": "9a69abb4-1287-4784-a629-49f52a6bec32",
+        "image_url": "https://media.rawg.io/media/screenshots/90f/90f2dc1e64bc9349d7b091a9a6c4e632.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69abb4-17b9-4009-8063-cdc3c33fd70e",
+        "game_id": "9a69abb4-1287-4784-a629-49f52a6bec32",
+        "image_url": "https://media.rawg.io/media/screenshots/aad/aade9fcee5eb81f8faa4129f8cf99954.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69abb4-17fe-40ff-b57c-793ec02e9d8c",
+        "game_id": "9a69abb4-1287-4784-a629-49f52a6bec32",
+        "image_url": "https://media.rawg.io/media/screenshots/fee/feede5f7791def9dc02bcc2da575fd52.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69abb4-1896-478e-8dfb-96666be4c685",
+        "game_id": "9a69abb4-1287-4784-a629-49f52a6bec32",
+        "image_url": "https://media.rawg.io/media/screenshots/125/125049108706d2ac0b09a821eb334076.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69abb4-18f8-4b5f-95fd-abcba2e4a893",
+        "game_id": "9a69abb4-1287-4784-a629-49f52a6bec32",
+        "image_url": "https://media.rawg.io/media/screenshots/19c/19c733b654b6d69a2910ddd75e44904d.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [
+      {
+        "id": "9a69abb4-1627-40b3-b128-1d4607d43528",
+        "game_id": "9a69abb4-1287-4784-a629-49f52a6bec32",
+        "name": "Steam",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "9a69bda5-1fa7-4113-9041-8c4bbaf4b6de",
+    "slug": "tactera",
+    "name": "Tactera",
+    "playtime": 1,
+    "released": "2017-12-28",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/41f/41fc76eaabfd126519084c2cfd13e648.jpg",
+    "rating": 0,
+    "rating_top": 0,
+    "ratings_count": 0,
+    "reviews_count": 0,
+    "metacritic": null,
+    "suggestions_count": 162,
+    "esrb_rating": null,
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69bda5-24f7-4a46-bbab-e24c3e940126",
+        "game_id": "9a69bda5-1fa7-4113-9041-8c4bbaf4b6de",
+        "name": "Strategy",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bda5-2559-487c-9399-c194eb8057b2",
+        "game_id": "9a69bda5-1fa7-4113-9041-8c4bbaf4b6de",
+        "name": "Indie",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69bda5-2004-4f58-bc7c-b2a450915286",
+        "game_id": "9a69bda5-1fa7-4113-9041-8c4bbaf4b6de",
+        "name": "PC",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69bda5-20dd-473d-86ff-f777169fdecc",
+        "game_id": "9a69bda5-1fa7-4113-9041-8c4bbaf4b6de",
+        "image_url": "https://media.rawg.io/media/screenshots/41f/41fc76eaabfd126519084c2cfd13e648.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bda5-21d5-4cb1-95ba-e34d6a525915",
+        "game_id": "9a69bda5-1fa7-4113-9041-8c4bbaf4b6de",
+        "image_url": "https://media.rawg.io/media/screenshots/9ae/9ae06aa14616c6b75d10a7a6014cb9bc.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bda5-2266-43fc-8baf-21f742692200",
+        "game_id": "9a69bda5-1fa7-4113-9041-8c4bbaf4b6de",
+        "image_url": "https://media.rawg.io/media/screenshots/1a5/1a56a37bae207018d05dc6dcb8ece0a2.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bda5-22cc-43b3-8f0d-cc1da9b078cd",
+        "game_id": "9a69bda5-1fa7-4113-9041-8c4bbaf4b6de",
+        "image_url": "https://media.rawg.io/media/screenshots/027/027c9d76bb594d0ff89c5a46dc61b851.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bda5-232b-41f9-b92b-cffaba65c5ad",
+        "game_id": "9a69bda5-1fa7-4113-9041-8c4bbaf4b6de",
+        "image_url": "https://media.rawg.io/media/screenshots/272/27292b0a302d27f964b55340fd0cc7b1.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bda5-238a-4da1-a4ac-f61e463e825c",
+        "game_id": "9a69bda5-1fa7-4113-9041-8c4bbaf4b6de",
+        "image_url": "https://media.rawg.io/media/screenshots/98f/98f7d09b45e52a1052214480cce0e426.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bda5-2413-44d2-a7a7-b9854bfb75cf",
+        "game_id": "9a69bda5-1fa7-4113-9041-8c4bbaf4b6de",
+        "image_url": "https://media.rawg.io/media/screenshots/41f/41fc76eaabfd126519084c2cfd13e648.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [
+      {
+        "id": "9a69bda5-205f-4a24-81dd-4b85f14570d2",
+        "game_id": "9a69bda5-1fa7-4113-9041-8c4bbaf4b6de",
+        "name": "Steam",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "tags": [
+      {
+        "id": "9a69bda5-2468-4786-b621-63639d1c135a",
+        "game_id": "9a69bda5-1fa7-4113-9041-8c4bbaf4b6de",
+        "name": "Singleplayer",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bda5-24aa-4cae-b5ab-8f52d5ebc13e",
+        "game_id": "9a69bda5-1fa7-4113-9041-8c4bbaf4b6de",
+        "name": "VR",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ]
+  },
+  {
+    "id": "9a69b411-32a5-41b7-8254-c8def3165784",
+    "slug": "mario-luigi-superstar-saga-bowsers-minions",
+    "name": "Mario \u0026 Luigi: Superstar Saga + Bowser\u0027s Minions",
+    "playtime": 0,
+    "released": "2017-10-06",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/5b2/5b2c0ebe7fc272170ba77dfec6bb3e61.jpg",
+    "rating": 4.21,
+    "rating_top": 4,
+    "ratings_count": 24,
+    "reviews_count": 24,
+    "metacritic": null,
+    "suggestions_count": 336,
+    "esrb_rating": null,
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69b411-379b-4e51-8606-dfa482325388",
+        "game_id": "9a69b411-32a5-41b7-8254-c8def3165784",
+        "name": "RPG",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69b411-3328-4a81-bf47-2c9a7f9c25d1",
+        "game_id": "9a69b411-32a5-41b7-8254-c8def3165784",
+        "name": "Nintendo 3DS",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69b411-3449-4d4c-bcc7-378b5f3ecb26",
+        "game_id": "9a69b411-32a5-41b7-8254-c8def3165784",
+        "image_url": "https://media.rawg.io/media/screenshots/5b2/5b2c0ebe7fc272170ba77dfec6bb3e61.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b411-34bd-4bac-9751-fbb1643f6234",
+        "game_id": "9a69b411-32a5-41b7-8254-c8def3165784",
+        "image_url": "https://media.rawg.io/media/screenshots/8a7/8a7105a9dbf7d9c1bc82220d077be3a0.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b411-350b-4a1b-ac32-7ff9381151db",
+        "game_id": "9a69b411-32a5-41b7-8254-c8def3165784",
+        "image_url": "https://media.rawg.io/media/screenshots/5f1/5f1096f4d9d931dfaeab01da7af23d36.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b411-355e-471b-af6a-60dc7ab2969e",
+        "game_id": "9a69b411-32a5-41b7-8254-c8def3165784",
+        "image_url": "https://media.rawg.io/media/screenshots/f08/f0868c9cd6d536ca7b3054ec7924ca14.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b411-35cd-41de-99fc-ba87bd7035af",
+        "game_id": "9a69b411-32a5-41b7-8254-c8def3165784",
+        "image_url": "https://media.rawg.io/media/screenshots/fc4/fc4027f3a846f6af2eed3cea775cce11.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b411-3632-4b89-894e-34ac47c69552",
+        "game_id": "9a69b411-32a5-41b7-8254-c8def3165784",
+        "image_url": "https://media.rawg.io/media/screenshots/c64/c644b961208ac981d83a25f9515ba9e3.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b411-36c9-496f-b89a-2ed5eaef774e",
+        "game_id": "9a69b411-32a5-41b7-8254-c8def3165784",
+        "image_url": "https://media.rawg.io/media/screenshots/9f0/9f05fa8801a172babec83adaac4393cb.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [
+      {
+        "id": "9a69b411-33ac-4dbe-a513-3dddac5a540f",
+        "game_id": "9a69b411-32a5-41b7-8254-c8def3165784",
+        "name": "Nintendo Store",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "tags": [
+      {
+        "id": "9a69b411-374b-40ce-b685-c38d2168b26c",
+        "game_id": "9a69b411-32a5-41b7-8254-c8def3165784",
+        "name": "role-playing",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ]
+  },
+  {
+    "id": "9a69ba54-618a-424e-979d-b3f4415f39f9",
+    "slug": "tyrian",
+    "name": "Tyrian",
+    "playtime": 0,
+    "released": "1995-01-01",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/04d/04d7c9f9e921e8d6c9c154ab461f21ce.jpg",
+    "rating": 4,
+    "rating_top": 4,
+    "ratings_count": 8,
+    "reviews_count": 8,
+    "metacritic": null,
+    "suggestions_count": 470,
+    "esrb_rating": null,
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69ba54-6586-4ef2-a318-524df9533d38",
+        "game_id": "9a69ba54-618a-424e-979d-b3f4415f39f9",
+        "name": "Arcade",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69ba54-6211-4a93-a4df-09efeb5adf2b",
+        "game_id": "9a69ba54-618a-424e-979d-b3f4415f39f9",
+        "name": "PC",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69ba54-6275-495b-81f5-6f5a3b6e85ad",
+        "game_id": "9a69ba54-618a-424e-979d-b3f4415f39f9",
+        "image_url": "https://media.rawg.io/media/screenshots/04d/04d7c9f9e921e8d6c9c154ab461f21ce.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ba54-62dd-43ea-865c-ee0039ce09aa",
+        "game_id": "9a69ba54-618a-424e-979d-b3f4415f39f9",
+        "image_url": "https://media.rawg.io/media/screenshots/201/201325d7fb2d2adbc797dffd35b2ea73.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ba54-632d-42dd-8346-3e5c2e958643",
+        "game_id": "9a69ba54-618a-424e-979d-b3f4415f39f9",
+        "image_url": "https://media.rawg.io/media/screenshots/011/0115f312e3ee38ed7bcbae908c243b5d.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ba54-637a-4227-b1ac-b52d3580548f",
+        "game_id": "9a69ba54-618a-424e-979d-b3f4415f39f9",
+        "image_url": "https://media.rawg.io/media/screenshots/984/984f09b1c86813388e241f9273fbc392.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ba54-63c6-4044-b983-7eeade70a5cb",
+        "game_id": "9a69ba54-618a-424e-979d-b3f4415f39f9",
+        "image_url": "https://media.rawg.io/media/screenshots/e14/e147b27e49819a499ea2182b028130a8.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ba54-642a-4c7d-9a8c-e1d659933810",
+        "game_id": "9a69ba54-618a-424e-979d-b3f4415f39f9",
+        "image_url": "https://media.rawg.io/media/screenshots/34c/34c443a3ff53d4e098ac40f263ff38cb.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ba54-64c6-45d0-9b10-afc899a2e885",
+        "game_id": "9a69ba54-618a-424e-979d-b3f4415f39f9",
+        "image_url": "https://media.rawg.io/media/screenshots/6ae/6ae5033a200e01576d1ad03443d0ac86.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [],
+    "tags": []
+  },
+  {
+    "id": "9a69ac90-fee4-4292-bc98-8833dd6bfbff",
+    "slug": "akaneiro-demon-hunters",
+    "name": "Akaneiro: Demon Hunters",
+    "playtime": 1,
+    "released": "2014-11-25",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/13e/13ef62daf0f226b3f89e6f77fb0f5fdb.jpg",
+    "rating": 1.8199999999999998,
+    "rating_top": 1,
+    "ratings_count": 11,
+    "reviews_count": 11,
+    "metacritic": 53,
+    "suggestions_count": 576,
+    "esrb_rating": null,
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69ac91-0dbd-464f-b474-ea605ecfb41a",
+        "game_id": "9a69ac90-fee4-4292-bc98-8833dd6bfbff",
+        "name": "Action",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ac91-0e1f-4438-9122-bdeb60847adb",
+        "game_id": "9a69ac90-fee4-4292-bc98-8833dd6bfbff",
+        "name": "RPG",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ac91-0e82-4495-abc7-ea8b8b68a03c",
+        "game_id": "9a69ac90-fee4-4292-bc98-8833dd6bfbff",
+        "name": "Indie",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69ac90-ffbc-4a54-aecb-f74dbbc7f632",
+        "game_id": "9a69ac90-fee4-4292-bc98-8833dd6bfbff",
+        "name": "PC",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ac91-002b-4cdf-aa93-95c8a816c9d3",
+        "game_id": "9a69ac90-fee4-4292-bc98-8833dd6bfbff",
+        "name": "Linux",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ac91-008b-4757-b45b-4a16bf482201",
+        "game_id": "9a69ac90-fee4-4292-bc98-8833dd6bfbff",
+        "name": "macOS",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69ac91-03fc-4194-b8e3-eb2073ed1b30",
+        "game_id": "9a69ac90-fee4-4292-bc98-8833dd6bfbff",
+        "image_url": "https://media.rawg.io/media/screenshots/13e/13ef62daf0f226b3f89e6f77fb0f5fdb.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ac91-04f7-4e94-b5fb-24864164f1b8",
+        "game_id": "9a69ac90-fee4-4292-bc98-8833dd6bfbff",
+        "image_url": "https://media.rawg.io/media/screenshots/853/85368e419738c89b1fd1dc7044606f7e.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ac91-07a1-4820-8828-417124fd79c8",
+        "game_id": "9a69ac90-fee4-4292-bc98-8833dd6bfbff",
+        "image_url": "https://media.rawg.io/media/screenshots/5b0/5b0f596bfdec67d24ffee7dbed9cebaa.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ac91-0845-4407-b3d0-0b991f86f246",
+        "game_id": "9a69ac90-fee4-4292-bc98-8833dd6bfbff",
+        "image_url": "https://media.rawg.io/media/screenshots/a27/a273c86dd451585021cbfae66ff06b87.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ac91-08b1-4822-a692-82b694635819",
+        "game_id": "9a69ac90-fee4-4292-bc98-8833dd6bfbff",
+        "image_url": "https://media.rawg.io/media/screenshots/3f5/3f5145747694e90595582e5a5a3e77ce.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ac91-0923-4f26-b501-4331b81ad270",
+        "game_id": "9a69ac90-fee4-4292-bc98-8833dd6bfbff",
+        "image_url": "https://media.rawg.io/media/screenshots/403/4031daa7e7550f09387d5522a075ed3d.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ac91-09a1-4185-8650-5568b66ffa6e",
+        "game_id": "9a69ac90-fee4-4292-bc98-8833dd6bfbff",
+        "image_url": "https://media.rawg.io/media/screenshots/d4c/d4cc1d64ac4109619aff953b91c560ed.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [
+      {
+        "id": "9a69ac91-00fc-4b2f-aa7d-7217a360b830",
+        "game_id": "9a69ac90-fee4-4292-bc98-8833dd6bfbff",
+        "name": "Steam",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "tags": [
+      {
+        "id": "9a69ac91-0ac1-4269-b2c4-9c48efec1f23",
+        "game_id": "9a69ac90-fee4-4292-bc98-8833dd6bfbff",
+        "name": "Singleplayer",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ac91-0b95-4756-a8c5-0f662f24329b",
+        "game_id": "9a69ac90-fee4-4292-bc98-8833dd6bfbff",
+        "name": "steam-trading-cards",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ac91-0c69-46d6-bbc7-c70e5ab0e8c7",
+        "game_id": "9a69ac90-fee4-4292-bc98-8833dd6bfbff",
+        "name": "RPG",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ac91-0cf4-46ca-a11a-5b74fe51f780",
+        "game_id": "9a69ac90-fee4-4292-bc98-8833dd6bfbff",
+        "name": "Free to Play",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69ac91-0d5d-494b-ab73-029054c49c53",
+        "game_id": "9a69ac90-fee4-4292-bc98-8833dd6bfbff",
+        "name": "Hack and Slash",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ]
+  },
+  {
+    "id": "9a69f0a5-a318-4840-8708-9f67f219919f",
+    "slug": "pacific-strike",
+    "name": "Pacific Strike",
+    "playtime": 0,
+    "released": "1994-01-01",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/208/20825b127c89909edcb9566816259c01.jpg",
+    "rating": 0,
+    "rating_top": 0,
+    "ratings_count": 0,
+    "reviews_count": 0,
+    "metacritic": null,
+    "suggestions_count": 60,
+    "esrb_rating": null,
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69f0a5-a55d-42b7-b66c-be47e8365e9b",
+        "game_id": "9a69f0a5-a318-4840-8708-9f67f219919f",
+        "name": "Simulation",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69f0a5-a3c1-4a5e-b1a1-b653e12c1fdc",
+        "game_id": "9a69f0a5-a318-4840-8708-9f67f219919f",
+        "name": "PC",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69f0a5-a431-4504-8340-b241014567b3",
+        "game_id": "9a69f0a5-a318-4840-8708-9f67f219919f",
+        "image_url": "https://media.rawg.io/media/screenshots/208/20825b127c89909edcb9566816259c01.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69f0a5-a4a1-4c91-818c-9476179be94c",
+        "game_id": "9a69f0a5-a318-4840-8708-9f67f219919f",
+        "image_url": "https://media.rawg.io/media/screenshots/037/03741eae77841e20dd5789ca01b32b63.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69f0a5-a4f0-4ed3-aa92-c661364d6549",
+        "game_id": "9a69f0a5-a318-4840-8708-9f67f219919f",
+        "image_url": "https://media.rawg.io/media/screenshots/208/20825b127c89909edcb9566816259c01.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [],
+    "tags": []
+  },
+  {
+    "id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+    "slug": "total-war-elysium",
+    "name": "Total War: ELYSIUM",
+    "playtime": 2,
+    "released": null,
+    "tba": 1,
+    "background_image": "https://media.rawg.io/media/screenshots/c36/c36ce1fc68f8ebcdb05ac61e1096cde1.jpg",
+    "rating": 0,
+    "rating_top": 0,
+    "ratings_count": 2,
+    "reviews_count": 2,
+    "metacritic": null,
+    "suggestions_count": 111,
+    "esrb_rating": null,
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69bed0-c993-4110-8d57-2243e5249b3b",
+        "game_id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+        "name": "Strategy",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bed0-ca55-4a08-83af-54c6373ac242",
+        "game_id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+        "name": "Card",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69bed0-b140-4f6e-bd24-d03a57b835c7",
+        "game_id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+        "name": "Android",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bed0-b222-4ef0-ac79-131775e6c4c2",
+        "game_id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+        "name": "PC",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69bed0-b394-46d4-baee-cc6100b8c195",
+        "game_id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+        "image_url": "https://media.rawg.io/media/screenshots/c36/c36ce1fc68f8ebcdb05ac61e1096cde1.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bed0-b435-4dbe-98b3-7e1fad3e76e6",
+        "game_id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+        "image_url": "https://media.rawg.io/media/screenshots/64e/64ecc9cabb1007b30fc08e3f9d9ac233.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bed0-b4c7-493e-a8e6-9da319b14e12",
+        "game_id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+        "image_url": "https://media.rawg.io/media/screenshots/c36/c36ce1fc68f8ebcdb05ac61e1096cde1.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [
+      {
+        "id": "9a69bed0-b2e2-4e47-a839-d8e948433b11",
+        "game_id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+        "name": "Steam",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "tags": [
+      {
+        "id": "9a69bed0-bb2c-49f2-8f5b-6be1f0f0f35b",
+        "game_id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+        "name": "Singleplayer",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bed0-bbff-421b-925c-a74e1f2f464c",
+        "game_id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+        "name": "Multiplayer",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bed0-bc6a-406a-b6ad-6fdde671ecda",
+        "game_id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+        "name": "Free to Play",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bed0-bcde-4ac5-93eb-489da4abffba",
+        "game_id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+        "name": "Tactical",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bed0-bdc6-4f10-a159-ceaf05dd2daf",
+        "game_id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+        "name": "PvP",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bed0-be45-48d0-99cc-96229188529d",
+        "game_id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+        "name": "Cross-Platform Multiplayer",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bed0-bebd-4ae6-82f5-1cb9ddb7f1fd",
+        "game_id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+        "name": "War",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bed0-bf4c-452c-85cd-c97238084588",
+        "game_id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+        "name": "Historical",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bed0-bfb0-4293-98ff-ff3cd4170ceb",
+        "game_id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+        "name": "Colorful",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bed0-c012-495e-ba47-4d2fbc0e3bd8",
+        "game_id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+        "name": "Medieval",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bed0-c077-4f70-b3e3-57442eedbb68",
+        "game_id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+        "name": "Military",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bed0-c1c7-4070-9d2c-5a4de82c95a1",
+        "game_id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+        "name": "Online PvP",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bed0-c466-4b82-a960-87632d95904a",
+        "game_id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+        "name": "PvE",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bed0-c535-402f-bafb-51ad9825c966",
+        "game_id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+        "name": "Turn-Based Combat",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bed0-c5db-4ea6-9334-92f409d55076",
+        "game_id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+        "name": "Turn-Based Tactics",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bed0-c63b-410a-8901-29041476baf3",
+        "game_id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+        "name": "Card Game",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bed0-c6a0-4765-b847-0dc4b9775ae1",
+        "game_id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+        "name": "Alternate History",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bed0-c71d-4f6f-b6b2-615f3d3e68b1",
+        "game_id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+        "name": "deckbuilding",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bed0-c783-4206-9fb7-53e46d8a5b1b",
+        "game_id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+        "name": "Tutorial",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69bed0-c7e8-49ca-8f40-26bcaafb2d64",
+        "game_id": "9a69bed0-b001-4e4d-a9db-e2fe95812390",
+        "name": "Card Battler",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ]
+  },
+  {
+    "id": "9a69a209-5239-4b31-b658-d166859d1daf",
+    "slug": "day-of-the-tentacle-remastered",
+    "name": "Day of the Tentacle Remastered",
+    "playtime": 3,
+    "released": "2016-03-21",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/games/764/7648a8802fae5247298d775c85e9535f.jpg",
+    "rating": 3.66,
+    "rating_top": 4,
+    "ratings_count": 369,
+    "reviews_count": 373,
+    "metacritic": 86,
+    "suggestions_count": 310,
+    "esrb_rating": "Teen",
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69a209-6ccd-4c64-9358-8a5a915d5a64",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "Adventure",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-6df0-4c2b-8c56-18834f1476f6",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "Family",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69a209-5321-4313-89c3-5bda3ab1dda3",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "PS Vita",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-53f7-47f7-bca8-3f204a10fbf7",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "PlayStation 4",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-5499-4033-b6d9-e89baf9d27a4",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "Xbox One",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-5543-4f40-94eb-92a6372dfa86",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "iOS",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-55eb-491f-b7ec-4903b2412628",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "PC",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-568a-4c71-b0a7-e30dd34a8339",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "Linux",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-572e-425d-9762-0aa22a3f77f7",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "macOS",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69a209-5c5c-4c2e-8890-f5c429e0f4d7",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "image_url": "https://media.rawg.io/media/games/764/7648a8802fae5247298d775c85e9535f.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-5d02-41b4-bd97-5943a4e993b8",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "image_url": "https://media.rawg.io/media/screenshots/6e1/6e1c7f6b3e76de45b68bb9889330cc43.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-5de6-48b7-a66c-4cc1e28871ad",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "image_url": "https://media.rawg.io/media/screenshots/97f/97fc39528190c295a0403e1aa8e945d7.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-5e9b-4b7d-b691-5b195e93950f",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "image_url": "https://media.rawg.io/media/screenshots/f57/f57876edfcf68be67adaff0f95cf04a5.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-5f3f-4917-960f-f8fba565455a",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "image_url": "https://media.rawg.io/media/screenshots/dc4/dc40010be1cddfc75720bdb84e8e5aef.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-5fde-4fb3-b9bb-3e9211ee069d",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "image_url": "https://media.rawg.io/media/screenshots/566/56672e25a9bc86d9580194808e66c8d5.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-6095-4c41-a75f-ae86fe4216f5",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "image_url": "https://media.rawg.io/media/screenshots/173/17354ed42beead868c67fe4544182a46.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [
+      {
+        "id": "9a69a209-57f1-4ca3-91f9-320c7b9d52e4",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "Xbox Store",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-58b0-41f6-9cb9-e09b73729315",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "PlayStation Store",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-5986-45ba-80d8-872c4e720b6c",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "Steam",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-5a3b-4c6b-a726-fbdc0a8e7afa",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "GOG",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-5af0-428b-b268-96994e15345d",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "App Store",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-5b8d-49be-ae73-bfe18d608a42",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "itch.io",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "tags": [
+      {
+        "id": "9a69a209-616a-4253-baa2-bfab6b1c6514",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "Singleplayer",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-621c-4180-8541-06b28f78991c",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "Steam Achievements",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-62b9-4fbb-b0dd-60eddad18e51",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "Full controller support",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-6354-4be3-82bf-40f825e741e0",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "Steam Cloud",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-63f0-44ee-a32d-52fe217d26cd",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "steam-trading-cards",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-648b-46bf-a719-891fe179a62e",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "2D",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-6522-437d-8dfa-41365352ecef",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "Funny",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-65b9-4ef2-8463-52de10334b6e",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "Classic",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-664e-4855-b62b-86e4626b65a9",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "Comedy",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-66ff-4c36-a383-42d4fa0d67c9",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "Point \u0026 Click",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-67ef-4b47-8752-f56941af9861",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "overlay",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-68af-4c0c-9472-2e966e1e0aef",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "Remake",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-6948-4015-a6c5-70cbf81a115f",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "1990\u0027s",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-69fb-4f9d-a903-4cd1e82d0900",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "Commentary available",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-6ac0-4a41-87c5-c5d129b7925d",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "Cartoony",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-6b79-431c-9998-baab1cfddfb1",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "Time Travel",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69a209-6c25-4d64-86d6-c6e82e38cec5",
+        "game_id": "9a69a209-5239-4b31-b658-d166859d1daf",
+        "name": "cloud saves",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ]
+  },
+  {
+    "id": "9a69b306-3017-489c-9248-8d6203696f0b",
+    "slug": "hyperdimension-neptunia",
+    "name": "Hyperdimension Neptunia",
+    "playtime": 0,
+    "released": "2010-08-19",
+    "tba": 0,
+    "background_image": "https://media.rawg.io/media/screenshots/f41/f41040d0fcef65a0b69bceef964438a2.jpg",
+    "rating": 2.14,
+    "rating_top": 1,
+    "ratings_count": 7,
+    "reviews_count": 7,
+    "metacritic": null,
+    "suggestions_count": 514,
+    "esrb_rating": "Teen",
+    "created_at": "Fri, 10/20/2023",
+    "updated_at": "Fri, 10/20/2023",
+    "genres": [
+      {
+        "id": "9a69b306-3511-4b0b-9862-6675c6691a81",
+        "game_id": "9a69b306-3017-489c-9248-8d6203696f0b",
+        "name": "RPG",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "platforms": [
+      {
+        "id": "9a69b306-30a8-4dd1-89f4-b9989fdcb5c2",
+        "game_id": "9a69b306-3017-489c-9248-8d6203696f0b",
+        "name": "PlayStation 3",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": "9a69b306-316f-4352-83cb-5146d5aeb351",
+        "game_id": "9a69b306-3017-489c-9248-8d6203696f0b",
+        "image_url": "https://media.rawg.io/media/screenshots/f41/f41040d0fcef65a0b69bceef964438a2.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b306-31fb-4d90-b421-c8e4f5631ef6",
+        "game_id": "9a69b306-3017-489c-9248-8d6203696f0b",
+        "image_url": "https://media.rawg.io/media/screenshots/5da/5dafec317f2a87fb84058df8111c74e0.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b306-32a3-47dc-9fb3-3ea7681f63d7",
+        "game_id": "9a69b306-3017-489c-9248-8d6203696f0b",
+        "image_url": "https://media.rawg.io/media/screenshots/2d8/2d819361544d0b46769de14f13cdb578.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b306-3373-40da-ae0b-353a94a98801",
+        "game_id": "9a69b306-3017-489c-9248-8d6203696f0b",
+        "image_url": "https://media.rawg.io/media/screenshots/f86/f862517b2c5f6b9d67c4a7a739ab20e3.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b306-33e2-4341-a278-ab7003b6010e",
+        "game_id": "9a69b306-3017-489c-9248-8d6203696f0b",
+        "image_url": "https://media.rawg.io/media/screenshots/37d/37d5ca1aedf8e81062df76eb3f1fcf89.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b306-343a-4b26-a400-24a9b79113f3",
+        "game_id": "9a69b306-3017-489c-9248-8d6203696f0b",
+        "image_url": "https://media.rawg.io/media/screenshots/eb6/eb6e207d58ed5464681bb79ad79b1036.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      },
+      {
+        "id": "9a69b306-3488-4607-a32d-d2659aba9178",
+        "game_id": "9a69b306-3017-489c-9248-8d6203696f0b",
+        "image_url": "https://media.rawg.io/media/screenshots/98b/98bc7c07d9bd4dda63ad0bf3776713b3.jpg",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "stores": [
+      {
+        "id": "9a69b306-3113-43f3-abcb-d4b351436e61",
+        "game_id": "9a69b306-3017-489c-9248-8d6203696f0b",
+        "name": "PlayStation Store",
+        "created_at": "Fri, 10/20/2023",
+        "updated_at": "Fri, 10/20/2023"
+      }
+    ],
+    "tags": []
+  }
+]
