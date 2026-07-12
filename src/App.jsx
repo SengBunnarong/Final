@@ -72,6 +72,25 @@ export default function App() {
         </div>
       </header>
 
+      <div className="ticker-wrap">
+        <div className="ticker">
+          <div className="ticker-items">
+            <span className="ticker-item"><i className="fa-solid fa-bolt" /> NEW ARRIVALS EVERY WEEK</span>
+            <span className="ticker-sep"><i className="fa-solid fa-star" /></span>
+            <span className="ticker-item"><i className="fa-solid fa-tag" /> UP TO 40% OFF ON TOP SALE</span>
+            <span className="ticker-sep"><i className="fa-solid fa-star" /></span>
+            <span className="ticker-item"><i className="fa-solid fa-trophy" /> RETRO CLASSICS IN STOCK</span>
+            <span className="ticker-sep"><i className="fa-solid fa-star" /></span>
+            <span className="ticker-item"><i className="fa-solid fa-bolt" /> NEW ARRIVALS EVERY WEEK</span>
+            <span className="ticker-sep"><i className="fa-solid fa-star" /></span>
+            <span className="ticker-item"><i className="fa-solid fa-tag" /> UP TO 40% OFF ON TOP SALE</span>
+            <span className="ticker-sep"><i className="fa-solid fa-star" /></span>
+            <span className="ticker-item"><i className="fa-solid fa-trophy" /> RETRO CLASSICS IN STOCK</span>
+            <span className="ticker-sep"><i className="fa-solid fa-star" /></span>
+          </div>
+        </div>
+      </div>
+
       <Routes>
         <Route path="/" element={<StorePage />} />
         <Route path="/game/:id" element={<GameDetail />} />

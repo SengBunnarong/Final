@@ -105,6 +105,54 @@
   border-radius: 8px;
 }
 
+/* ── TICKER / MARQUEE ── */
+.ticker-wrap {
+  width: 100%;
+  overflow: hidden;
+  background: var(--bg-surface);
+  border-bottom: 1px solid var(--border);
+  position: relative;
+  z-index: 1;
+}
+
+.ticker {
+  display: flex;
+  white-space: nowrap;
+  overflow: hidden;
+  padding: 8px 0;
+}
+
+.ticker-items {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  animation: tickerScroll 30s linear infinite;
+}
+
+.ticker-item {
+  font-family: var(--font-pixel);
+  font-size: 9px;
+  color: var(--accent);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.ticker-item i {
+  font-size: 10px;
+  color: #facc15;
+}
+
+.ticker-sep {
+  color: var(--text-muted);
+  font-size: 8px;
+}
+
+@keyframes tickerScroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
 /* ── CAROUSEL ── */
 .hero-carousel {
   border-bottom: 1px solid var(--border);
