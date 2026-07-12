@@ -1,4 +1,5 @@
 :root {
+  --font-pixel: "Press Start 2P", monospace;
   --font-main: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
 
   --bg-primary: #121212;
