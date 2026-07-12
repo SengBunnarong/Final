@@ -1144,7 +1144,18 @@ a.game-card {
   }
 
   .carousel-content {
-    display: none;
+    display: block;
+    padding: 16px 16px 16px 44px;
+    max-width: 100%;
+  }
+
+  .carousel-tag {
+    font-size: 9px;
+    padding: 2px 6px;
+  }
+
+  .carousel-title {
+    font-size: 15px;
   }
 
   .carousel-slide {
