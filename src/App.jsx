@@ -11,6 +11,7 @@ export default function App() {
   const { items } = useCart();
   const location = useLocation();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [showScrollTop, setShowScrollTop] = useState(false);
 
   useEffect(() => {
     if (location.hash) {
@@ -20,6 +21,12 @@ export default function App() {
       window.scrollTo(0, 0);
     }
   }, [location]);
+
+  useEffect(() => {
+    const onScroll = () => setShowScrollTop(window.scrollY > 300);
+    window.addEventListener("scroll", onScroll, { passive: true });
+    return () => window.removeEventListener("scroll", onScroll);
+  }, []);
 
   return (
     <div className="game-store">
@@ -96,6 +103,14 @@ export default function App() {
         <Route path="/game/:id" element={<GameDetail />} />
         <Route path="/cart" element={<Cart />} />
       </Routes>
+
+      <button
+        className={`scroll-top-btn${showScrollTop ? " visible" : ""}`}
+        onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+        aria-label="Scroll to top"
+      >
+        <i className="fa-solid fa-arrow-up" />
+      </button>
     </div>
   );
 }
