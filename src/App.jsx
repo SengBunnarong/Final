@@ -191,12 +191,7 @@ function StorePage() {
             <span className="footer-logo"><i className="fa-solid fa-gamepad" /></span>
             <span className="footer-brand-name">GAMEVAULT</span>
           </div>
-          <div className="footer-links">
-            <a href="#" className="footer-link">About</a>
-            <a href="#" className="footer-link">Support</a>
-            <a href="#" className="footer-link">Terms</a>
-            <a href="#" className="footer-link">Privacy</a>
-          </div>
+
           <div className="footer-copy">
             &copy; 2026 GameVault. All rights reserved.
           </div>
