@@ -373,17 +373,6 @@
   color: var(--accent);
 }
 
-.section-badge {
-  font-family: var(--font-pixel);
-  font-size: 7px;
-  color: var(--text-muted);
-  background: rgba(255, 255, 255, 0.04);
-  border: 1px solid var(--border);
-  border-radius: var(--radius-sm);
-  padding: 4px 8px;
-  margin-left: 12px;
-  letter-spacing: 0.5px;
-}
 
 .section-title {
   font-size: 13px;
