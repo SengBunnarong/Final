@@ -74,16 +74,16 @@ export default function App() {
 
       <div className="ticker-wrap">
         <div className="ticker">
-          <div className="ticker-items">
+<div className="ticker-items">
             <span className="ticker-item"><i className="fa-solid fa-bolt" /> NEW ARRIVALS EVERY WEEK</span>
             <span className="ticker-sep"><i className="fa-solid fa-star" /></span>
-            <span className="ticker-item"><i className="fa-solid fa-tag" /> UP TO 40% OFF ON TOP SALE</span>
+            <span className="ticker-item"><i className="fa-solid fa-medal" /> GOOD DEAL, GRAB IT FAST</span>
             <span className="ticker-sep"><i className="fa-solid fa-star" /></span>
             <span className="ticker-item"><i className="fa-solid fa-trophy" /> RETRO CLASSICS IN STOCK</span>
             <span className="ticker-sep"><i className="fa-solid fa-star" /></span>
             <span className="ticker-item"><i className="fa-solid fa-bolt" /> NEW ARRIVALS EVERY WEEK</span>
             <span className="ticker-sep"><i className="fa-solid fa-star" /></span>
-            <span className="ticker-item"><i className="fa-solid fa-tag" /> UP TO 40% OFF ON TOP SALE</span>
+            <span className="ticker-item"><i className="fa-solid fa-medal" /> GOOD DEAL, GRAB IT FAST</span>
             <span className="ticker-sep"><i className="fa-solid fa-star" /></span>
             <span className="ticker-item"><i className="fa-solid fa-trophy" /> RETRO CLASSICS IN STOCK</span>
             <span className="ticker-sep"><i className="fa-solid fa-star" /></span>
