@@ -19,3 +19,12 @@ No test suite is configured. No typecheck script exists.
 - ESLint flat config in `eslint.config.js` targets `**/*.{js,jsx}` only
 - React Compiler is **not** enabled
 - ESM-only (`"type": "module"` in package.json)
+
+## Git Workflow
+
+After making code changes:
+
+1. Check git status
+2. Stage changed files
+3. Create a commit with a meaningful message
+4. Push changes to GitHub
