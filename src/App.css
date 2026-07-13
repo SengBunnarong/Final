@@ -152,7 +152,6 @@
   top: 60px;
   z-index: 99;
   display: flex;
-  gap: var(--gap);
   padding: 8px 0;
 }
 
@@ -176,7 +175,7 @@
 
 @keyframes tickerScroll {
   from { transform: translateX(0); }
-  to { transform: translateX(calc(-100% - var(--gap))); }
+  to { transform: translateX(-100%); }
 }
 
 @media (prefers-reduced-motion: reduce) {
