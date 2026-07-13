@@ -7,6 +7,25 @@ import Cart from "./pages/Cart";
 import gamesData from "./games_data.json";
 import "./App.css";
 
+const tickerItems = [
+  { icon: "fa-solid fa-bolt", text: "NEW ARRIVALS EVERY WEEK" },
+  { icon: "fa-solid fa-medal", text: "GOOD DEAL, GRAB IT FAST" },
+  { icon: "fa-solid fa-trophy", text: "RETRO CLASSICS IN STOCK" },
+];
+
+function TickerContent(props) {
+  return (
+    <ul className="ticker__content" {...props}>
+      {tickerItems.map((item, i) => (
+        <li key={i} className="ticker-item">
+          <i className={item.icon} /> {item.text}
+          <span className="ticker-sep"><i className="fa-solid fa-star" /></span>
+        </li>
+      ))}
+    </ul>
+  );
+}
+
 export default function App() {
   const { items } = useCart();
   const location = useLocation();
@@ -79,23 +98,9 @@ export default function App() {
         </div>
       </header>
 
-      <div className="ticker-wrap">
-        <div className="ticker">
-<div className="ticker-items">
-            <span className="ticker-item"><i className="fa-solid fa-bolt" /> NEW ARRIVALS EVERY WEEK</span>
-            <span className="ticker-sep"><i className="fa-solid fa-star" /></span>
-            <span className="ticker-item"><i className="fa-solid fa-medal" /> GOOD DEAL, GRAB IT FAST</span>
-            <span className="ticker-sep"><i className="fa-solid fa-star" /></span>
-            <span className="ticker-item"><i className="fa-solid fa-trophy" /> RETRO CLASSICS IN STOCK</span>
-            <span className="ticker-sep"><i className="fa-solid fa-star" /></span>
-            <span className="ticker-item"><i className="fa-solid fa-bolt" /> NEW ARRIVALS EVERY WEEK</span>
-            <span className="ticker-sep"><i className="fa-solid fa-star" /></span>
-            <span className="ticker-item"><i className="fa-solid fa-medal" /> GOOD DEAL, GRAB IT FAST</span>
-            <span className="ticker-sep"><i className="fa-solid fa-star" /></span>
-            <span className="ticker-item"><i className="fa-solid fa-trophy" /> RETRO CLASSICS IN STOCK</span>
-            <span className="ticker-sep"><i className="fa-solid fa-star" /></span>
-          </div>
-        </div>
+      <div className="marquee ticker-wrap">
+        <TickerContent />
+        <TickerContent aria-hidden="true" />
       </div>
 
       <Routes>
