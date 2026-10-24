@@ -1,0 +1,18 @@
+<div class="home-container">
+  <header class="home-header">
+    <h1>Homepage</h1>
+    <button class="btn btn-secondary" (click)="logout()">Logout</button>
+  </header>
+
+  <section class="home-content">
+    <div class="welcome-card">
+      <h2>Welcome!</h2>
+      @if (auth.session(); as session) {
+        <p>You are logged in as <strong>{{ session.username }}</strong>.</p>
+      } @else {
+        <p>You are not logged in.</p>
+      }
+      <p>This is your basic authenticated homepage.</p>
+    </div>
+  </section>
+</div>
